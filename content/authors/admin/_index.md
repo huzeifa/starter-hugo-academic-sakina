@@ -11,7 +11,7 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/sakina-huzeifa
 organizations:
   - name: MSB Educational Institute Nairobi, Kenya
 education:
