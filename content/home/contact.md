@@ -1,38 +1,24 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-# This file represents a page section.
+widget_id: Contact
 headless: true
-
-# Order that this section appears on the page.
-weight: 130
-
+weight: 140
 title: Contact
-subtitle:
-
+subtitle: null
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      ? id
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-
-  # Contact details (edit or remove options as required)
   email: sakinatayabali2401@gmail.com
   address:
-    # street: 450 Serra Mall
     region: Kenya
     city: Nairobi
     country: Kenya
     country_code: KE
-
 design:
-  columns: '2'
+  columns: "2"
 ---
