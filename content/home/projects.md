@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 headless: true
-weight: 65
+weight: 20
 title: Lessons
 subtitle: ""
 content:
