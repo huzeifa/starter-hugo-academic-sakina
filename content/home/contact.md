@@ -28,6 +28,7 @@ content:
   email: sakinatayabali2401@gmail.com
   address:
     # street: 450 Serra Mall
+    region: Karen
     city: Nairobi
     country: Kenya
     country_code: KE
