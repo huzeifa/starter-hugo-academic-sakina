@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: "#056eb1"
+    gradient_start: "#0547b1"
     gradient_end: "#17b2ed"
     text_color_light: true
     image: ""
