@@ -3,7 +3,7 @@ widget: tag_cloud
 widget_id: Topics
 headless: true
 weight: 20
-title: Popular Topics
+title: Topics
 subtitle: ""
 content:
   taxonomy: tags
