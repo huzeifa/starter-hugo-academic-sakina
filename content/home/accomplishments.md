@@ -29,7 +29,7 @@ item:
 widget_id: Accomplish&shy;ments
 headless: true
 weight: 130
-title: Accomplishments
+title: Accomplish&shy;ments
 subtitle: null
 design:
   columns: "2"
