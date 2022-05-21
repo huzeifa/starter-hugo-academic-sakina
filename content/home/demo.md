@@ -18,9 +18,9 @@ design:
     image: ""
   spacing:
     padding:
-      - 20px
+      - 40px
       - "0"
-      - 20px
+      - 40px
       - "0"
 ---
 ## Welcome to the Science Teacher's blog
