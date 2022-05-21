@@ -4,9 +4,10 @@ role: Science Teacher
 avatar_filename: avatar.jpg
 bio: "I am a high school science teacher. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Travelling
+  - Swimming
+  - Writing
+  - Hiking
 social:
   - icon: linkedin
     icon_pack: fab
