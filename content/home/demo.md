@@ -14,8 +14,8 @@ design:
   background:
     gradient_start: "#056eb1"
     gradient_end: "#17b2ed"
-    text_color_light: true
-    image: depositphotos_30020009-stock-illustration-vector-black-atom-icon.jpg
+    text_color_light: false
+    image: ""
   spacing:
     padding:
       - 20px
