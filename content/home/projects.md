@@ -10,10 +10,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Biology
+      tag: Biology
+    - name: Chemistry
+      tag: Chemistry
+    - name: Physics
+      tag: Physics
 widget_id: Lessons
 design:
   columns: "2"
