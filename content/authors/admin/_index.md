@@ -3,11 +3,7 @@ title: Sakina Huzeifa Tayabali
 role: Science Teacher
 avatar_filename: avatar.jpg
 bio: "I am a high school science teacher. "
-interests:
-  - Travelling
-  - Swimming
-  - Writing
-  - Hiking
+interests: []
 social:
   - icon: linkedin
     icon_pack: fab
