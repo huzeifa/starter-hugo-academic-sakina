@@ -1,7 +1,7 @@
 ---
 title: Sakina Huzeifa Tayabali
 role: Science Teacher
-avatar_filename: spiral-galaxy-dark-matter.jpg
+avatar_filename: 1587316298431.jpg
 bio: "I am a high school science teacher. "
 interests:
   - Artificial Intelligence
