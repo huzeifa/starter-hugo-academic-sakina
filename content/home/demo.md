@@ -2,7 +2,7 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: welcome
+widget: demo
 widget_id: A Science Teacher's blog
 headless: true
 weight: 15
