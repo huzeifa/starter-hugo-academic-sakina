@@ -14,7 +14,7 @@ design:
   background:
     gradient_start: "#056eb1"
     gradient_end: "#17b2ed"
-    text_color_light: false
+    text_color_light: true
     image: ""
   spacing:
     padding:
