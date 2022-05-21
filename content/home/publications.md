@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Thesis
+widget_id: Research
 headless: true
 weight: 90
-title: Thesis
+title: Research
 subtitle: ""
 content:
   filters:
