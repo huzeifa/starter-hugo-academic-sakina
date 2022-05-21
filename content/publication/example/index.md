@@ -34,8 +34,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: AN INVESTIGATION ON THE EFFECT OF STUDENT CURIOSITY ON THE RETENTION OF
-  SUBJECT MATTER
+title: An Investigation on the Effect of Student Curiosity on the Retention of
+  Subject Matter
 doi: ""
 featured: false
 tags: []
