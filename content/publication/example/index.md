@@ -21,7 +21,7 @@ abstract: "Curiosity is a means for students to fill in gaps in their knowledge.
   classes, in order to smoothen their students’ transition from the known to the
   unknown. "
 slides: ""
-url_pdf: ""
+url_pdf: "https://sakinahuzeifa.netlify.app/uploads/SAKINA_UNDERGRADUATE_RESEARCH_PROJECT.pdf"
 publication_types:
   - "7"
 authors:
