@@ -1,7 +1,7 @@
 ---
 title: How to Study and Revise
 subtitle: Here are some steps to take to successfully study for an exam
-date: 2020-12-13T00:00:00Z
+date: 2022-06-04T14:44:43.018Z
 summary: ""
 draft: false
 featured: false
