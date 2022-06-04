@@ -2,7 +2,7 @@
 title: How to Study and Revise
 subtitle: Here are some steps to take to successfully study for an exam
 date: 2022-06-04T14:44:43.018Z
-summary: ""
+summary: Here are some steps to take to successfully study for an exam
 draft: false
 featured: false
 authors:
