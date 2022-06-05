@@ -35,3 +35,5 @@ Organisms**,** carry out seven **life processes**:
 * Respiration - they use glucose and oxygen to release energy.
 * Excretion - they can produce waste and get rid of it.
 * Nutrition - they require food for energy, growth and overall health.
+
+![](levels_of_organisation.png)
