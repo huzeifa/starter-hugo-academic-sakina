@@ -1,5 +1,5 @@
 ---
-title: Topic questions
+title: Topic Questions
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
