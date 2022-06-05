@@ -37,12 +37,16 @@ Many organ systems make up a living thing – an **organism**.
 
 ![](levels_of_organisation.png)
 
+**Life processes**
 
-Organisms carry out seven **life processes**:
+All organisms carry out the following life processes: 
+
 * Movement - they can move from place to place or move parts of themselves.
 * Reproduction - they can make more of themselves.
 * Sensitivity - they can sense and respond to stimuli around them.
 * Growth - they can increase in size.
 * Respiration - they use glucose and oxygen to release energy.
 * Excretion - they can produce waste and get rid of it.
-* Nutrition - they require food for energy, growth and overall health.
+* Nutrition - they require food for energy, growth and overall health. 
+
+For anything to be living, it should be able to carry out all the above life processes.
