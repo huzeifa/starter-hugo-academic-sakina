@@ -4,7 +4,7 @@ url_pdf: ""
 title: "Class 7: Cells, Tissues, Organs and Organ Systems"
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2022-06-05T08:51:58.173Z
 external_link: ""
 url_slides: ""
 subtitle: ""
@@ -12,7 +12,7 @@ tags:
   - Biology
 links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
@@ -29,9 +29,7 @@ Many organ systems make up a living thing – an **organism**.
 ![](levels_of_organisation.png)
 
 
-
 Organisms carry out seven **life processes**:
-
 * Movement - they can move from place to place or move parts of themselves.
 * Reproduction - they can make more of themselves.
 * Sensitivity - they can sense and respond to stimuli around them.
