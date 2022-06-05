@@ -30,7 +30,7 @@ Many organ systems make up a living thing – an **organism**.
 
 
 
-Organisms**,** carry out seven **life processes**:
+Organisms carry out seven **life processes**:
 
 * Movement - they can move from place to place or move parts of themselves.
 * Reproduction - they can make more of themselves.
