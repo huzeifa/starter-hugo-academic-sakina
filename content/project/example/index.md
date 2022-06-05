@@ -41,10 +41,13 @@ Many organ systems make up a living thing – an **organism**.
 
 All organisms carry out the following life processes: 
 
-* Movement - they can move from place to place or move parts of themselves.
+* **Movement** - they can move from place to place or move parts of themselves.
 
   ![](movement.gif "Sunflower plants slowly track the motion of the sun across the sky during the day, and then drift back during the nighttime.")
-* Reproduction - they can make more of themselves.
+* **Reproduction** - they can make more of themselves.
+
+![](reproduction.gif "Bacteria are single celled unicellular organisms that reproduce by a process called binary fission.")
+
 * Sensitivity - they can sense and respond to changes inside and outside their bodies called stimuli around them.
 * Growth - they can increase in size.
 * Respiration - they use glucose and oxygen to release energy.
