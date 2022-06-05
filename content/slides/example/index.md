@@ -15,15 +15,15 @@ slides:
 
 ## WHAT MAKES SOMETHING LIVING?
 
-All organisms (living things) carry out seven life processes:
+A living thing (called an organism) carries out seven life processes:
 
-1. Movement
-2. Respiration
-3. Sensitivity
-4. Growth 
-5. Respiration
-6. Excretion
-7. Nutrition
+* Movement
+* Respiration
+* Sensitivity
+* Growth 
+* Respiration
+* Excretion
+* Nutrition
 
 - - -
 
