@@ -66,6 +66,6 @@ All organisms carry out the following life processes:
 
 * **Nutrition** - they require food for energy, growth and overall health. 
 
-![]()
+![](nutrition.gif)
 
 For anything to be living, it should be able to carry out all the above life processes.
