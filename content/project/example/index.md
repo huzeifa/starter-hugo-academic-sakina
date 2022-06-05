@@ -48,7 +48,10 @@ All organisms carry out the following life processes:
 
 ![](reproduction.gif "Bacteria are single celled unicellular organisms that reproduce by a process called binary fission.")
 
-* Sensitivity - they can sense and respond to changes inside and outside their bodies called stimuli around them.
+* **Sensitivity** - they can sense and respond to changes inside and outside their bodies called stimuli around them.
+
+![](sensitivity.gif "Mimosa pudica is a flowering plant of the pea/legume family. The leaves fold inward and droop when touched or shaken, defending themselves from harm, and re-open a few minutes later.")
+
 * Growth - they can increase in size.
 * Respiration - they use glucose and oxygen to release energy.
 * Excretion - they can produce waste and get rid of it.
