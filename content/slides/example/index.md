@@ -17,7 +17,7 @@ slides:
 
 {{% fragment %}}
 
-In order to be considered a living thing, it should carry out all the 7 life processes: movement, reproduction, sensitivity, growth, respiration, excretion and nutrition
+In order for something to be considered living, it should carry out all the 7 life processes: movement, reproduction, sensitivity, growth, respiration, excretion and nutrition
 
  {{% /fragment %}}
 
