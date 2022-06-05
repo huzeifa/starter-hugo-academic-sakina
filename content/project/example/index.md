@@ -52,9 +52,20 @@ All organisms carry out the following life processes:
 
 ![](sensitivity.gif "Mimosa pudica is a flowering plant of the pea/legume family. The leaves fold inward and droop when touched or shaken, defending themselves from harm, and re-open a few minutes later.")
 
-* Growth - they can increase in size.
-* Respiration - they use glucose and oxygen to release energy.
-* Excretion - they can produce waste and get rid of it.
-* Nutrition - they require food for energy, growth and overall health. 
+* **Growth** - they can increase in size.
+
+![](growth.gif "Seeds germinate using warmth, water and oxygen and the leaves photosynthesize with the help of water and minerals from soil, carbon dioxide and sunlight.")
+
+* **Respiration** - they use glucose and oxygen to release energy.
+
+![](respiration.gif "Energy is released when glucose and oxygen react in our cells to produce carbon dioxide and water.")
+
+* **Excretion** - they can produce waste and get rid of it.
+
+![](excretion.gif "Excretion is the release of waste in the form of urine, sweat and exhalation of carbon dioxide")
+
+* **Nutrition** - they require food for energy, growth and overall health. 
+
+![]()
 
 For anything to be living, it should be able to carry out all the above life processes.
