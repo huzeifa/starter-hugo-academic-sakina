@@ -20,9 +20,9 @@ tags:
   - Biology
 links: []
 image:
-  caption: Cells are the samllest unit of life.
+  caption: ""
   focal_point: Smart
-  filename: featured.png
+  filename: ""
 url_code: ""
 ---
 A **cell** is the smallest unit of life. 
