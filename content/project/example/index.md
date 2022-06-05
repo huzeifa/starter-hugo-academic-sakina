@@ -26,6 +26,10 @@ Different organs work together in **organ systems**.
 
 Many organ systems make up a living thing – an **organism**. 
 
+![](levels_of_organisation.png)
+
+
+
 Organisms**,** carry out seven **life processes**:
 
 * Movement - they can move from place to place or move parts of themselves.
@@ -35,5 +39,3 @@ Organisms**,** carry out seven **life processes**:
 * Respiration - they use glucose and oxygen to release energy.
 * Excretion - they can produce waste and get rid of it.
 * Nutrition - they require food for energy, growth and overall health.
-
-![](levels_of_organisation.png)
