@@ -22,7 +22,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: ""
+  filename: featured.png
 url_code: ""
 ---
 A **cell** is the smallest unit of life. 
