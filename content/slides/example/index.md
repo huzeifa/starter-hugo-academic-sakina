@@ -17,15 +17,7 @@ slides:
 
 {{% fragment %}}
 
-All living things carry out 7 life processes:
-
-* Movement - they can move from place to place or move parts of themselves.
-* Reproduction - they can make more of themselves.
-* Sensitivity - they can sense and respond to stimuli around them.
-* Growth - they can increase in size.
-* Respiration - they use glucose and oxygen to release energy.
-* Excretion - they can produce waste and get rid of it.
-* Nutrition - they require food for energy, growth and overall health.
+In order to be considered a living thing, it should carry out all the 7 life processes: movement, reproduction, sensitivity, growth, respiration, excretion and nutrition
 
  {{% /fragment %}}
 
