@@ -3,8 +3,10 @@ title: "Scientific Questions to Investigate "
 subtitle: Lower Secondary Science
 date: 2022-06-11T15:14:40.122Z
 summary: >-
-  Scientists form questions to investigate. Here is a general format one can use
-  to make a scientific question to investigate.
+  Scientists form questions to investigate. 
+
+
+  Herewith a general format one can use to form a scientific question to investigate.
 
 
   How does ............................................. affect ...................................................... ?
