@@ -1,5 +1,5 @@
 ---
-title: Scientific Questions to investigate practically/ theoretically
+title: "Scientific Questions to Investigate "
 subtitle: Lower Secondary Science
 date: 2022-06-11T15:14:40.122Z
 draft: false
