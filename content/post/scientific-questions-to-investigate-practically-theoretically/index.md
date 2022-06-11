@@ -71,7 +71,7 @@ image:
 * How does the number of bulbs in a series circuit affect their brightness?
 * How does the number of bulbs in a parallel circuit affect their brightness?
 * How does force affect extension on a spring?
-* How does area where a force is acted on affect pressure?
+* How does area on which a force is acted on, affect pressure?
 * How does the force of gravity affect the weight of an object?
 * How does mass affect the weight of an object?
 * How does force affect pressure on a certain area?
@@ -112,13 +112,5 @@ image:
 * How does the strength of magnet affect the rotation of an electric motor?
 * How does the amount of current affect the rotation of an electric motor?
 * How does height affect the gravitational potential energy an object stores?
-
-
-
-
-
- 
-
-
 
 <!--EndFragment-->
