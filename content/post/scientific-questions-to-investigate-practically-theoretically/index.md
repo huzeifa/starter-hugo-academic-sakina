@@ -7,7 +7,7 @@ summary: >-
   to make a scientific question to investigate.
 
 
-  ##### How does ............................................. affect ...................................................... ?
+  How does ............................................. affect ...................................................... ?
 draft: false
 featured: false
 image:
