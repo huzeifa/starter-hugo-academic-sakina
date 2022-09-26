@@ -70,7 +70,7 @@ All organisms carry out the following life processes:
 
 For anything to be living, it should be able to carry out all the above life processes.
 
-# Human & Plant Organ Systems
+# **Human & Plant Organ Systems**
 
 ![](human-organ-systems.png)
 
