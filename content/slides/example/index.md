@@ -4,7 +4,7 @@ summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
 categories: []
-date: 2019-02-05T00:00:00Z
+date: 2019-02-05T00:00:00.000Z
 slides:
   theme: black
   highlight_style: dracula
@@ -23,61 +23,25 @@ In order for something to be considered living, it should carry out all the 7 li
 
 - - -
 
-## Controls
+## Q. NAME A HUMAN ORGAN SYSTEM AND STATE ITS FUNCTION.
 
-* Next: `Right Arrow` or `Space`
-* Previous: `Left Arrow`
-* Start: `Home`
-* Finish: `End`
-* Overview: `Esc`
-* Speaker notes: `S`
-* Fullscreen: `F`
-* Zoom: `Alt + Click`
-* [PDF Export](https://revealjs.com/pdf-export/)
+{{% fragment %}}
+
+Circulatory system uses blood to transport oxygen and nutrients to all body cells and remove carbon dioxide.  Respiratory (Gas exchange) System helps take in oxygen into our body and remove carbon dioxide. Digestive system helps break down large food molecules into smaller nutrients that can be absorbed into blood. U﻿rinary system helps to excrete waste and extra water from the blood. N﻿ervous system helps respond to stimuli by transmiting electrical impulses along nerves. S﻿keletal system helps provide movement, protection and support.
+
+ {{% /fragment %}}
 
 - - -
 
-## Code Highlighting
+## Q. NAME A PLANT ORGAN SYSTEM AND STATE ITS FUNCTION.
 
-Inline code: `variable`
+{{% fragment %}}
 
-Code block:
+The water transport system in plants takes water from the ground up to the leaves. 
 
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+T﻿he root system anchors the plant and absorbs water and minerals which get carried to the shoot system.
 
-- - -
-
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
-- - -
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+ {{% /fragment %}}
 
 - - -
 
