@@ -74,12 +74,7 @@ For anything to be living, it should be able to carry out all the above life pro
 
 ![](human-organ-systems.png)
 
-* Circulatory system helps transport oxygen and nutrients to all body cells via blood. 
-* Respiratory (Gas exchange) System helps take in oxygen into our body and remove carbon dioxide.
-* Digestive system helps break down large food molecules into smaller nutrients that can be absorbed into blood. 
-* U﻿rinary system helps to excrete waste and extra water from the blood.
-* N﻿ervous system helps respond to stimuli by transmiting electrical impulses along nerves.
-* S﻿keletal system helps provide movement, protection and support. 
+* ![](human-organ-system-functions.jpg)
 
 ![](plant-organ-systems-1.png)
 
