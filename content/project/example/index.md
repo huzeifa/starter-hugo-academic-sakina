@@ -5,7 +5,7 @@ title: "Class 7: Cells, Tissues, Organs and Organ Systems"
 summary: |-
   This chapter deals with the following subtopics:
 
-  * Life Processes
+  * [Life Processes](google.com)
   * Human & Plant Organ Systems
   * H﻿uman & Plant Organs
   * Human & Plant Tissues
@@ -19,7 +19,9 @@ url_slides: ""
 subtitle: ""
 tags:
   - Biology
-links: []
+links:
+  - url: http://google.com
+    name: I AM A LLINK
 image:
   caption: ""
   focal_point: Smart
