@@ -82,8 +82,28 @@ For anything to be living, it should be able to carry out all the above life pro
 
 ![](human-organ-systems.png)
 
-* ![]()
+
+
+•Circulatory system helps transport oxygen and nutrients to all body cells via blood.
+
+•Respiratory (Gas exchange) System helps take in oxygen into our body and remove carbon dioxide.
+
+•Digestive system helps break down large food molecules into smaller nutrients that can be absorbed into blood.
+
+•Urinary system helps to excrete waste and extra water from the blood.
+
+•Nervous system helps respond to stimuli by transmitting electrical impulses along nerves.
+
+•Skeletal system helps provide movement, protection and support.
+
+
 
 ![](plant-organ-systems-1.png)
 
-![]()
+Roots, stem, leaves work together in the plant water transport system
+
+The water transport system in plants takes water from the ground up to the leaves by capillary action.
+
+Water is always flowing from this organ system as leaves constantly lose water by evaporation (transpiration).
+
+![](transpiration.jpg)
