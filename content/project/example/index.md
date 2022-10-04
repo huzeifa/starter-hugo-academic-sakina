@@ -82,8 +82,8 @@ For anything to be living, it should be able to carry out all the above life pro
 
 ![](human-organ-systems.png)
 
-* ![](human-organ-system-functions.jpg)
+* ![]()
 
 ![](plant-organ-systems-1.png)
 
-![](plant-organ-systems.png)
+![]()
