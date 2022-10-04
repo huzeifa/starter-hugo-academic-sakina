@@ -11,4 +11,3 @@ image:
   preview_only: false
   alt_text: i am a description
 ---
-I﻿ AM GONNA TALK ABOUT REPRODUCTION
