@@ -2,15 +2,22 @@
 slides: example
 url_pdf: ""
 title: "Class 7: Cells, Tissues, Organs and Organ Systems"
-summary: |-
+summary: >-
   This chapter deals with the following subtopics:
 
-  * [Life Processes](google.com)
+
+  * [Life Processes](https://www.thescienceteacher.co.ke/post/scientific-questions-to-investigate-practically-theoretically/)
+
   * Human & Plant Organ Systems
+
   * H﻿uman & Plant Organs
+
   * Human & Plant Tissues
+
   * Specialized cells
+
   * Animal & Plant cells 
+
   * Functions of cell organelles
 url_video: ""
 date: 2022-06-05T08:51:58.173Z
@@ -19,9 +26,7 @@ url_slides: ""
 subtitle: ""
 tags:
   - Biology
-links:
-  - url: http://google.com
-    name: I AM A LLINK
+links: []
 image:
   caption: ""
   focal_point: Smart
