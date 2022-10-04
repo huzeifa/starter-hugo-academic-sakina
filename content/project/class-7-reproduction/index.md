@@ -9,5 +9,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  alt_text: i am a description
+  alt_text: ""
 ---
