@@ -44,9 +44,7 @@ All organisms carry out the following life processes:
 
 * **Movement** - they can move from place to place or move parts of themselves.
 
-  ![Sunflower plants slowly track the motion of the sun across the sky during the day, and then drift back during the nighttime.](https://www.thescienceteacher.co.ke/project/example/movement.gif)
-
-  Sunflower plants slowly track the motion of the sun across the sky during the day, and then drift back during the nighttime.
+  ![Sunflower plants slowly track the motion of the sun across the sky during the day, and then drift back during the nighttime.](https://www.thescienceteacher.co.ke/project/example/movement.gif "Sunflower plants slowly track the motion of the sun across the sky during the day, and then drift back during the nighttime.")
 * **Reproduction** - they can make more of themselves.
 
 ![Bacteria are single celled unicellular organisms that reproduce by a process called binary fission.](https://www.thescienceteacher.co.ke/project/example/reproduction.gif)
