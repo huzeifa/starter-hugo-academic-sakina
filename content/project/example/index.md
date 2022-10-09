@@ -237,20 +237,38 @@ All cell organelles are held in the cytoplasm. The cytoplasm is a jelly like flu
 
 ![](cell-organelles-and-their-functions.png)
 
+
+
 ![](nucleus.jpg)
+
+
 
 ![](cell-membrane.jpg)
 
+
+
 ![](mitochondria.jpg)
+
+
 
 ![](lysosomes.jpg)
 
+
+
+
+
 ![](ribosomes.jpg)
 
+
+
 ![](er.jpg)
+
+
 
 ![](golgi.jpg)
 
 ![](chloroplasts.jpg)
+
+
 
 ![](vacuole.jpg)
