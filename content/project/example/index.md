@@ -26,12 +26,6 @@ image:
   filename: featured.png
 url_code: ""
 ---
-
-
-
-
-
-
 A **cell** is the smallest unit of life. 
 
 Cells of the same type make a **tissue**. 
@@ -43,6 +37,8 @@ Different organs work together in **organ systems**.
 Many organ systems make up a living thing – an **organism**. 
 
 ![](levels_of_organisation.png)
+
+![](loo-in-plants.jpg)
 
 # **L﻿ife Processes**
 
@@ -116,3 +112,27 @@ T﻿he following are fundamental organs in the human body.
 **•The heart** is a hollow, muscular organ that pumps blood through the blood vessels by repeated, rhythmic contractions.
 
 ![](heart.png)
+
+•**The lungs** are two sponge-like, cone-shaped structures that fill most of the chest cavity. Their essential function is to provide oxygen from inhaled air to the bloodstream and to exhale carbon dioxide.
+
+![](lungs.png)
+
+•**The liver** lies on the right side of the abdominal cavity. Its main function is to process and control the contents of the blood. This involves breaking down fats, producing urea, filtering harmful substances and maintaining a proper level of glucose in the blood.
+
+![](liver.png)
+
+•**The stomach** is a muscular, elastic, pear-shaped bag, lying crosswise in the abdominal cavity. Its main purpose is digestion of food through production of gastric juices (including hydrochloric acid) which break down, mix and churn the food into a thin liquid.
+
+![](stomach.jpg)
+
+•**The intestines** are located between the stomach and the anus and are divided into two major sections: the small intestine and the large intestine. The function of the small intestine is to absorb most ingested food in the blood. The large intestine is responsible for absorption of water and excretion of solid waste material.
+
+![](intestines.png)
+
+•**The kidneys** are two bean-shaped organs located at the back of the abdominal cavity, one on each side of the spinal column. Their function is to maintain the body’s chemical balance by excreting waste products and excess fluid in the form of urine.
+
+![](kidneys.png)
+
+•**The bladder** is a muscular organ located in the pelvic cavity. It stretches to store urine and contracts to release urine.
+
+![](bladder.jpg)
