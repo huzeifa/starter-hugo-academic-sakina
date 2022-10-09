@@ -185,3 +185,14 @@ All organs are made up of tissues. Example: the heart is made up of muscle, nerv
 •**Phloem** transports nutrients and food up and down the plant and into storage organs
 
 ![](plant-tissues.png)
+
+# Specialized cells
+
+![](specialised-cells.png)
+
+
+
+
+
+1. ]﻿
+2.
