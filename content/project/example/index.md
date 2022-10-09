@@ -26,6 +26,12 @@ image:
   filename: featured.png
 url_code: ""
 ---
+
+
+
+
+
+
 A **cell** is the smallest unit of life. 
 
 Cells of the same type make a **tissue**. 
@@ -98,3 +104,15 @@ The water transport system in plants takes water from the ground up to the leave
 Water is always flowing from this organ system as leaves constantly lose water by evaporation (transpiration).
 
 ![](transpiration.jpg)
+
+# H﻿uman & Plant Organs
+
+T﻿he following are fundamental organs in the human body.
+
+•**The brain** is the control center of the nervous system and is located within the skull. Its functions include muscle control and coordination, sensory reception and integration, speech production, memory storage, and processing of thought and emotion.
+
+![](brain.jpg)
+
+**•The heart** is a hollow, muscular organ that pumps blood through the blood vessels by repeated, rhythmic contractions.
+
+![](heart.png)
