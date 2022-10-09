@@ -136,3 +136,14 @@ T﻿he following are fundamental organs in the human body.
 •**The bladder** is a muscular organ located in the pelvic cavity. It stretches to store urine and contracts to release urine.
 
 ![](bladder.jpg)
+
+
+
+![](plant-organs.jpg)
+
+* **R﻿oots** - anchor the plant to the ground and absorb water and minerals from the ground. 
+* **S﻿tem**- holds the plant upright and transports water and nutrients from roots to the leaves. 
+* **L﻿eaves** - trap sunlight to make food for the plant by the process of photosynthesis.
+* **P﻿lant storage organs e.g. bulbs, storage roots and tubers** - store food and water for the plant to use when needed:
+
+![](plant-storage-organs.jpg)
