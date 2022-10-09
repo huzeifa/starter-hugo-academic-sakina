@@ -29,15 +29,12 @@ url_code: ""
 This chapter deals with the following subtopics:
 
 * [L﻿ife Processes](#LifeProcesses)
-* ### <a id="LifeProcesses"></a> Life Processes
 * Human & Plant Organ Systems
 * H﻿uman & Plant Organs
 * Human & Plant Tissues
 * Specialized cells
 * Animal & Plant cells 
 * Functions of cell organelles
-
-
 
 A **cell** is the smallest unit of life. 
 
@@ -53,7 +50,7 @@ Many organ systems make up a living thing – an **organism**.
 
 ![](loo-in-plants.jpg)
 
-### <a id="LifeProcesses"></a> Life Processes ###
+### <a id="LifeProcesses"></a> Life Processes
 
 All organisms including cells carry out the following life processes.
 
@@ -250,38 +247,20 @@ All cell organelles are held in the cytoplasm. The cytoplasm is a jelly like flu
 
 ![](cell-organelles-and-their-functions.png)
 
-
-
 ![](nucleus.jpg)
-
-
 
 ![](cell-membrane.jpg)
 
-
-
 ![](mitochondria.jpg)
-
-
 
 ![](lysosomes.jpg)
 
-
-
-
-
 ![](ribosomes.jpg)
 
-
-
 ![](er.jpg)
-
-
 
 ![](golgi.jpg)
 
 ![](chloroplasts.jpg)
-
-
 
 ![](vacuole.jpg)
