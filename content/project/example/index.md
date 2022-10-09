@@ -147,3 +147,22 @@ T﻿he following are fundamental organs in the human body.
 * **P﻿lant storage organs e.g. bulbs, storage roots and tubers** - store food and water for the plant to use when needed:
 
 ![](plant-storage-organs.jpg)
+
+# H﻿uman & Plant Tissues
+
+Tissues contain cells of the same type that perform a certain function.
+
+All organs are made up of tissues. Example: the heart is made up of muscle, nerve, fat and blood tissues.
+
+![](heart-tissues.jpg)
+
+![](human-body-tissues.png)
+
+* **Nerve tissue** - Made up of nerve cells which transmit electrical messages throughout the body
+
+  ![](nerve-tissue.jpg.png)
+
+
+* **M﻿uscle tissue** - made up of muscle cells.
+
+![](muscle-tissue.png)
