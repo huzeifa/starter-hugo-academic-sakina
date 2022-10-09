@@ -5,7 +5,7 @@ title: "Class 7: Cells, Tissues, Organs and Organ Systems"
 summary: |-
   This chapter deals with the following subtopics:
 
-  * [Life Processes](https://www.thescienceteacher.co.ke/post/life-processes/)
+  * Life Processes
   * Human & Plant Organ Systems
   * H﻿uman & Plant Organs
   * Human & Plant Tissues
