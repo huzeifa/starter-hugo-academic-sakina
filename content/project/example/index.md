@@ -166,3 +166,12 @@ All organs are made up of tissues. Example: the heart is made up of muscle, nerv
 * **M﻿uscle tissue** - made up of muscle cells.
 
 ![](muscle-tissue.png)
+
+
+
+* **Fat (adipose) tissue** - made up of adipose cells. The layer of fat tissue under the skin insulates the body to keep it warm. Pads of fat act as shock absorbers and support and cushion vital organs. The stored fat also provide energy when required.
+
+  ![](fat-tissue.jpg)
+* **Epithelial tissue** - made of epithelial cells which form the covering of all body surfaces
+
+![](epithelial-tissue.png)
