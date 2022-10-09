@@ -28,6 +28,7 @@ url_code: ""
 ---
 This chapter deals with the following subtopics:
 
+* [L﻿ife Processes](#LifeProcesses)
 * ### <a id="LifeProcesses"></a> Life Processes
 * Human & Plant Organ Systems
 * H﻿uman & Plant Organs
@@ -52,7 +53,7 @@ Many organ systems make up a living thing – an **organism**.
 
 ![](loo-in-plants.jpg)
 
-# **L﻿ife Processes [heading](#LifeProcesses)? **
+### <a id="LifeProcesses"></a> Life Processes ###
 
 All organisms including cells carry out the following life processes.
 
