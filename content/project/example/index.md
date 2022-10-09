@@ -175,3 +175,13 @@ All organs are made up of tissues. Example: the heart is made up of muscle, nerv
 * **Epithelial tissue** - made of epithelial cells which form the covering of all body surfaces
 
 ![](epithelial-tissue.png)
+
+**P﻿lant Tissue**
+
+•**Root hair tissue** absorb water and minerals
+
+•**Xylem tissue** transports water up the plant from the roots
+
+•**Phloem** transports nutrients and food up and down the plant and into storage organs
+
+![](plant-tissues.png)
