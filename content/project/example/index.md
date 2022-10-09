@@ -230,3 +230,27 @@ S﻿pecial features:
 S﻿pecial features:
 
 * L﻿ots of chloroplasts.
+
+# Cell organelles and their functions
+
+All cell organelles are held in the cytoplasm. The cytoplasm is a jelly like fluid that holds all the cell organelles and it is where chemical reactions take place.
+
+![](cell-organelles-and-their-functions.png)
+
+![](nucleus.jpg)
+
+![](cell-membrane.jpg)
+
+![](mitochondria.jpg)
+
+![](lysosomes.jpg)
+
+![](ribosomes.jpg)
+
+![](er.jpg)
+
+![](golgi.jpg)
+
+![](chloroplasts.jpg)
+
+![](vacuole.jpg)
