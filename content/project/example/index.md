@@ -14,7 +14,7 @@ summary: |-
   * Functions of cell organelles
 url_video: ""
 date: 2022-06-05T08:51:58.173Z
-external_link: "Life processes "
+external_link: ""
 url_slides: ""
 subtitle: ""
 tags:
