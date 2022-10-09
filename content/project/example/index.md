@@ -137,8 +137,6 @@ T﻿he following are fundamental organs in the human body.
 
 ![](bladder.jpg)
 
-
-
 ![](plant-organs.jpg)
 
 * **R﻿oots** - anchor the plant to the ground and absorb water and minerals from the ground. 
@@ -161,13 +159,9 @@ All organs are made up of tissues. Example: the heart is made up of muscle, nerv
 * **Nerve tissue** - Made up of nerve cells which transmit electrical messages throughout the body
 
   ![](nerve-tissue.jpg.png)
-
-
 * **M﻿uscle tissue** - made up of muscle cells.
 
 ![](muscle-tissue.png)
-
-
 
 * **Fat (adipose) tissue** - made up of adipose cells. The layer of fat tissue under the skin insulates the body to keep it warm. Pads of fat act as shock absorbers and support and cushion vital organs. The stored fat also provide energy when required.
 
@@ -190,9 +184,49 @@ All organs are made up of tissues. Example: the heart is made up of muscle, nerv
 
 ![](specialised-cells.png)
 
+1. **R﻿ed blood cells** - carry oxygen. 
 
+S﻿pecial features 
 
+* They have a biconcave shape which provides a large surface area for oxygen to pass into them. 
+* They contain hemoglobin which joins with oxygen. 
+* They have no nucleus. 
 
+2. **Nerve cells** - carry nerve impulses to different parts of the body,
 
-1. ]﻿
-2.
+S﻿pecial features:
+
+* T﻿hey are long and connected to each other.
+* T﻿hey can carry electrical signals.
+
+3﻿. **Ovum (Egg cell)** - this is the female reproductive cell which joins with the male reproductive cell by the process of fertilization during sexual reproduction.
+
+S﻿pecial features:
+
+* I﻿t is large
+* I﻿t carries a food store in the form of yolk .in its cytoplasm
+
+4﻿. **Sperm cell** - this is the male reproductive cell which joins with the female egg cell by the process of fertilization during sexual reproduction.
+
+S﻿pecial features:
+
+* I﻿t has a long tail for swimming 
+* I﻿t has a head that allows it to enter the female cell.
+
+5﻿. **Ciliated epithelial cell -** it moves dust particles and germs away from the lungs.
+
+S﻿pecial features:
+
+* I﻿t contains hair-like structures called cilia which waft away the germs and dust particles.
+
+6﻿. **Root hair cell -** it absorbs water and minerals.
+
+S﻿pecial features:
+
+* I﻿t is long and thin which provides a large surface area for maximum absorption of water and minerals.
+
+7﻿. **Palisade cell** - absorbs sunlight for photosynthesis  and is found in leaves.
+
+S﻿pecial features:
+
+* L﻿ots of chloroplasts.
