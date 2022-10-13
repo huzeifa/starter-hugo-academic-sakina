@@ -29,12 +29,12 @@ url_code: ""
 This chapter deals with the following subtopics:
 
 * [L﻿ife Processes](#LifeProcesses)
-* Human & Plant Organ Systems
-* H﻿uman & Plant Organs
-* Human & Plant Tissues
-* Specialized cells
-* Animal & Plant cells 
-* Functions of cell organelles
+* [Human & Plant Organ Systems](#Human&PlantOrganSystems)
+* [H﻿uman & Plant Organs](#Human&PlantOrgans)
+* [Human & Plant Tissues](#Human&PlantTissues)
+* [Specialized Cells](#SpecializedCells)
+* [Animal & Plant Cells ](#Animal&PlantCells)
+* [C﻿ell Organelles and their Functions](#CellOrganellesandtheirFunctions)
 
 A **cell** is the smallest unit of life. 
 
@@ -50,7 +50,7 @@ Many organ systems make up a living thing – an **organism**.
 
 ![](loo-in-plants.jpg)
 
-### <a id="LifeProcesses"></a> Life Processes
+# <a id="LifeProcesses"></a> Life Processes
 
 All organisms including cells carry out the following life processes.
 
@@ -83,9 +83,7 @@ All organisms including cells carry out the following life processes.
 
 For anything to be living, it should be able to carry out all the above life processes.
 
-<!--EndFragment-->
-
-# **Human & Plant Organ Systems**
+# <﻿a id = "Human&PlantOrganSystems"></a> Human & Plant Organ Systems
 
 ![](human-organ-systems.png)
 
@@ -111,7 +109,7 @@ Water is always flowing from this organ system as leaves constantly lose water b
 
 ![](transpiration.jpg)
 
-# H﻿uman & Plant Organs
+# <﻿a id = "Human&PlantOrgans"></a> Human & Plant Organs
 
 T﻿he following are fundamental organs in the human body.
 
@@ -154,9 +152,7 @@ T﻿he following are fundamental organs in the human body.
 * **L﻿eaves** - trap sunlight to make food for the plant by the process of photosynthesis.
 * **P﻿lant storage organs e.g. bulbs, storage roots and tubers** - store food and water for the plant to use when needed:
 
-![](plant-storage-organs.jpg)
-
-# H﻿uman & Plant Tissues
+# <a id = "Human&PlantTissues"></a> Human & Plant Tissues
 
 Tissues contain cells of the same type that perform a certain function.
 
@@ -190,7 +186,7 @@ All organs are made up of tissues. Example: the heart is made up of muscle, nerv
 
 ![](plant-tissues.png)
 
-# Specialized cells
+# <a id = "SpecializedCells"></a> = Specialized Cells
 
 ![](specialised-cells.png)
 
@@ -241,7 +237,15 @@ S﻿pecial features:
 
 * L﻿ots of chloroplasts.
 
-# Cell organelles and their functions
+# <﻿a id = "Animal&PlantCells"></a> Animal & Plant Cells
+
+![](animal-vs-plant-cells.png)
+
+![](cells.png)
+
+
+
+# <﻿a id = "CellOrganelles&theirFunctions"></a>Cell Organelles & their Functions
 
 All cell organelles are held in the cytoplasm. The cytoplasm is a jelly like fluid that holds all the cell organelles and it is where chemical reactions take place.
 
