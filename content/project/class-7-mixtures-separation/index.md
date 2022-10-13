@@ -175,3 +175,13 @@ H﻿ow to obtain salt from:
 2﻿. Sea water
 
 ![](salt-from-sea-water.jpg)
+
+
+
+# C﻿hromatography
+
+Chromatography separates and helps identify different substances found in a mixture.
+
+•After water is cleaned at a water treatment plant it must undergo tests to see what is dissolved in it.
+
+•Chromatography is one of the techniques used in water analysis.
