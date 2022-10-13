@@ -83,6 +83,8 @@ All organisms including cells carry out the following life processes.
 
 For anything to be living, it should be able to carry out all the above life processes.
 
+
+
 # <﻿a id="Human&PlantOrganSystems"></a> Human & Plant Organ Systems
 
 •Circulatory system helps transport oxygen and nutrients to all body cells via blood.
