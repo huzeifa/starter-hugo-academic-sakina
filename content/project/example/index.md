@@ -107,7 +107,7 @@ Water is always flowing from this organ system as leaves constantly lose water b
 
 ![](transpiration.jpg)
 
-# <﻿a id="Human&PlantOrgans"></a> Human & Plant Organs
+# <a id="Human&PlantOrgans"></a> Human & Plant Organs
 
 T﻿he following are fundamental organs in the human body.
 
