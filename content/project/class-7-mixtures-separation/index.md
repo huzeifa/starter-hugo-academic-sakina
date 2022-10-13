@@ -80,7 +80,7 @@ F﻿. Stir the sand and water mixture so that all the sand is suspended in the w
 
 G﻿. Pour the sand and water mixture into the filter paper. 
 
-## **S﻿OLUTIONS** 
+## **S﻿OLUTIONS**
 
 •Substances that can dissolve in a liquid form solutions. In solutions the dissolved substance breaks up into pieces so small that light can pass straight through the mixture.
 
@@ -159,3 +159,9 @@ F. When most of the liquid has evaporated, turn the burner off. Let the rest of 
 G﻿. Always set the Bunsen burner to a safety flame when not in use and just before turning off.
 
 <!--EndFragment-->
+
+## E﻿vaporation vs Boiling
+
+![](evaporation-boiling.png)
+
+![](evaporation-vs-boiling.png)
