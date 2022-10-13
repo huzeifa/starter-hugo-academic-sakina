@@ -5,6 +5,7 @@ summary: |-
   T﻿his chapter deals with the following subtopics:
 
   * T﻿ypes of Mixtures
+  * F﻿iltration
   * S﻿olutions & Solubility
   * E﻿vaporation & H﻿eating to dryness 
   * C﻿hromatography
