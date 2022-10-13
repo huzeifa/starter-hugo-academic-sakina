@@ -38,7 +38,7 @@ To make water safe for drinking it must be treated in different ways to remove t
 
 <!--EndFragment--><!--StartFragment-->
 
-1. In the first stage of water treatment, waste water (from homes, offices and street drains) passes through a screen, which acts as a sieve to remove large solids such as leaves, rubbish and lumps of human waste, as well as smaller solids.
+1. In the first stage of water treatment, waste water (from homes, offices and street drains) passes through a screen, which acts as a sieve to remove large solids such as leaves, rubbish and lumps of human waste, as well as smaller solids. 
 
 <!--EndFragment--><!--StartFragment-->
 
