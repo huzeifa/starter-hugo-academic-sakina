@@ -235,13 +235,13 @@ S﻿pecial features:
 
 * L﻿ots of chloroplasts.
 
-# <﻿a id="Animal&PlantCells"></a> Animal & Plant Cells
+#﻿ <a id="Animal&PlantCells"></a> Animal & Plant Cells
 
 ![](animal-vs-plant-cells.png)
 
 ![](cells.png)
 
-# <﻿a id="CellOrganelles&theirFunctions"></a>Cell Organelles & their Functions
+# <a id="CellOrganelles&theirFunctions"></a> Cell Organelles & their Functions
 
 All cell organelles are held in the cytoplasm. The cytoplasm is a jelly like fluid that holds all the cell organelles and it is where chemical reactions take place.
 
