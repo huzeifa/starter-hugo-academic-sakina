@@ -78,4 +78,84 @@ E﻿. Place the filter funnel into teh neck of a conical flask.
 
 F﻿. Stir the sand and water mixture so that all the sand is suspended in the water. 
 
-G﻿. Pour the sand and water mixture into the filter paper.
+G﻿. Pour the sand and water mixture into the filter paper. 
+
+## **S﻿OLUTIONS** 
+
+•Substances that can dissolve in a liquid form solutions. In solutions the dissolved substance breaks up into pieces so small that light can pass straight through the mixture.
+
+•A substance that can dissolve in a certain liquid is said to be soluble. Substances that do not dissolve in a certain liquid is said to be insoluble.
+
+**solute + solvent = solution**
+
+•A solute is the soluble substance
+
+•A solvent is the liquid which is dissolving the solute.
+
+Mass of the solution is the same as the mass of solute plus the mass of solvent at the start. No extra mass is gained or lost. This is known as the law of conservation of mass,
+
+Total mass of the solution = mass of solute + mass of solvent
+
+Salt water solution contains salt as the solute and water as the solvent. 
+
+Water dissolves substances from the rocks and soil that it passes through. Water is a very good solvent because many solids, some gases and other liquids can be soluble in it.
+
+•Solids that are soluble (i.e. can dissolve) in water – salt, sugar, coffee
+
+•Solids that are insoluble (i.e. cannot dissolve) in water – sand, flour etc.
+
+•Liquids that are soluble in water – alcohol; acids, alkalis
+
+•Liquids that are insoluble in water – oils, petrol, gasoline, turpentine
+
+•All gases have a certain degree of solubility in water. Some gases like ammonia, bromine, hydrogen chloride and sulphur dioxide are more soluble than oxygen and nitrogen.
+
+•Those solutes that are insoluble in water can be soluble in solvents like ethanol and propanone (acetone).
+
+<!--StartFragment-->
+
+•There is a limit to how much solute you can dissolve in a particular volume of solvent. If the solubility limit is exceeded, the solution becomes **saturated**.
+
+•In a saturated solution, the extra solute will sink to the bottom and stay undissolved.
+
+**S﻿OLUBILITY**
+
+•The solubility of a solute is the mass that will dissolve in 100g of a solvent.
+
+•Factors affecting solubility include:
+
+1.Temperature – the higher the temperature, the more the solubility
+
+2.Type of solvent - 36g of sodium chloride can dissolve in water but only 0.1g can dissolve in ethanol at 20°C
+
+3.Stirring increases speed of solubility
+
+<!--EndFragment-->
+
+# H﻿eating to Dryness
+
+<!--StartFragment-->
+
+Heating a solution until all the solvent has evaporated is known as heating to dryness. We use this methd to separate out a solute from a solution.
+
+<!--EndFragment-->
+
+![](heating-to-dryness.png)
+
+M﻿ethod:
+
+A. Use a medium flame to heat the solution. 
+
+B﻿. Wear eye protection while heating to prevent eyes getting burnt from spitting of the solution during heating
+
+C﻿. Do not fill evaporating dish more than half full with solution
+
+D﻿. If heating liquid in a tube, make sure open end of tube is not pointing towards anyone
+
+E. Always use tongs to hold or move hot things
+
+F. When most of the liquid has evaporated, turn the burner off. Let the rest of the liquid evaporate more slowly.
+
+G﻿. Always set the Bunsen burner to a safety flame when not in use and just before turning off.
+
+<!--EndFragment-->
