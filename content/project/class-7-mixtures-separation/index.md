@@ -146,13 +146,13 @@ M﻿ethod:
 
 A. Use a medium flame to heat the solution. 
 
-B﻿. Wear eye protection while heating to prevent eyes getting burnt from spitting of the solution during heating
+B﻿. Wear eye protection while heating to prevent eyes getting burnt from spitting of the solution during heating.
 
-C﻿. Do not fill evaporating dish more than half full with solution
+C﻿. Do not fill evaporating dish more than half full with solution.
 
-D﻿. If heating liquid in a tube, make sure open end of tube is not pointing towards anyone
+D﻿. If heating liquid in a tube, make sure open end of tube is not pointing towards anyone.
 
-E. Always use tongs to hold or move hot things
+E. Always use tongs to hold or move hot things.
 
 F. When most of the liquid has evaporated, turn the burner off. Let the rest of the liquid evaporate more slowly.
 
