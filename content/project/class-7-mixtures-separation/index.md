@@ -34,7 +34,7 @@ A﻿ mixture is made up of two or more components physically intermixed.
 
 Water in rivers and streams may also carry solids such as sand, gravel or mud making it a colloid and suspension.
 
-To make water safe for drinking it must be treated in different ways to remove the unwanted substances mixed in it
+To make water safe for drinking it must be treated in different ways to remove the unwanted substances mixed in it.
 
 <!--EndFragment--><!--StartFragment-->
 
