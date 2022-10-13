@@ -51,3 +51,31 @@ To make water safe for drinking it must be treated in different ways to remove t
 4: Disease-causing microorganisms are too small to be removed by filters or settlement ponds. Drinking water may be treated with chlorine to kill them.
 
 <!--EndFragment-->
+
+# F﻿iltration
+
+F﻿iltration is a method used to separate an insoluble solid from a liquid or solution. 
+
+T﻿he substance from the mixture that is filtered out is called the **filtrate**. The substance that remains behind in the filter paper is called the **residue**.
+
+<!--EndFragment-->
+
+A﻿pparatus:
+
+![](filtration.png)
+
+M﻿ethod:
+
+A﻿. Fold a circular filter paper in half.
+
+B﻿. Fold the filter paper in half again to form a triangle shape. 
+
+C﻿. Open out one layer of the paper to form a cone.
+
+D﻿. Place the filter paper cone into a filter funnel.
+
+E﻿. Place the filter funnel into teh neck of a conical flask.
+
+F﻿. Stir the sand and water mixture so that all the sand is suspended in the water. 
+
+G﻿. Pour the sand and water mixture into the filter paper.
