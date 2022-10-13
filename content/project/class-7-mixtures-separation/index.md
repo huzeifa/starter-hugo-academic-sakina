@@ -165,3 +165,13 @@ G﻿. Always set the Bunsen burner to a safety flame when not in use and just be
 ![](evaporation-boiling.png)
 
 ![](evaporation-vs-boiling.png)
+
+H﻿ow to obtain salt from:
+
+1﻿.  Rock Salt
+
+![](salt-from-rock-salt.jpg)
+
+2﻿. Sea water
+
+![](salt-from-sea-water.jpg)
