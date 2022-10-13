@@ -29,7 +29,7 @@ url_code: ""
 This chapter deals with the following subtopics:
 
 * [L﻿ife Processes](#LifeProcesses)
-* [﻿Human and Plant Organ Systems](#HumanandPlantOrganSystems)
+* [﻿Human & Plant Organ Systems](#Human&PlantOrganSystems)
 * [H﻿uman & Plant Organs](#Human&PlantOrgans)
 * [Human & Plant Tissues](#Human&PlantTissues)
 * [Specialized Cells](#SpecializedCells)
@@ -83,7 +83,7 @@ All organisms including cells carry out the following life processes.
 
 For anything to be living, it should be able to carry out all the above life processes.
 
-# <﻿a id="HumanandPlantOrganSystems"></a> Human and Plant Organ Systems
+# <﻿a id="Human&PlantOrganSystems"></a> Human & Plant Organ Systems
 
 •Circulatory system helps transport oxygen and nutrients to all body cells via blood.
 
