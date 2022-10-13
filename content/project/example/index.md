@@ -83,7 +83,7 @@ All organisms including cells carry out the following life processes.
 
 For anything to be living, it should be able to carry out all the above life processes.
 
-# <﻿a id = "Human&PlantOrganSystems"></a> Human & Plant Organ Systems
+# <﻿a id="Human&PlantOrganSystems"></a> Human & Plant Organ Systems
 
 ![](human-organ-systems.png)
 
@@ -109,7 +109,7 @@ Water is always flowing from this organ system as leaves constantly lose water b
 
 ![](transpiration.jpg)
 
-# <﻿a id = "Human&PlantOrgans"></a> Human & Plant Organs
+# <﻿a id="Human&PlantOrgans"></a> Human & Plant Organs
 
 T﻿he following are fundamental organs in the human body.
 
@@ -152,7 +152,7 @@ T﻿he following are fundamental organs in the human body.
 * **L﻿eaves** - trap sunlight to make food for the plant by the process of photosynthesis.
 * **P﻿lant storage organs e.g. bulbs, storage roots and tubers** - store food and water for the plant to use when needed:
 
-# <a id = "Human&PlantTissues"></a> Human & Plant Tissues
+# <a id="Human&PlantTissues"></a> Human & Plant Tissues
 
 Tissues contain cells of the same type that perform a certain function.
 
@@ -186,7 +186,7 @@ All organs are made up of tissues. Example: the heart is made up of muscle, nerv
 
 ![](plant-tissues.png)
 
-# <a id = "SpecializedCells"></a> = Specialized Cells
+# <a id="SpecializedCells"></a> Specialized Cells
 
 ![](specialised-cells.png)
 
@@ -237,15 +237,13 @@ S﻿pecial features:
 
 * L﻿ots of chloroplasts.
 
-# <﻿a id = "Animal&PlantCells"></a> Animal & Plant Cells
+# <﻿a id="Animal&PlantCells"></a> Animal & Plant Cells
 
 ![](animal-vs-plant-cells.png)
 
 ![](cells.png)
 
-
-
-# <﻿a id = "CellOrganelles&theirFunctions"></a>Cell Organelles & their Functions
+# <﻿a id="CellOrganelles&theirFunctions"></a>Cell Organelles & their Functions
 
 All cell organelles are held in the cytoplasm. The cytoplasm is a jelly like fluid that holds all the cell organelles and it is where chemical reactions take place.
 
