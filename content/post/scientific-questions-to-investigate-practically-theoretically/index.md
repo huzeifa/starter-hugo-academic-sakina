@@ -9,6 +9,7 @@ summary: >-
 
   How does ............................................. affect ...................................................... ?
 draft: false
+share: false
 featured: false
 image:
   filename: featured
