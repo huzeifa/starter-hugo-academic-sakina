@@ -89,7 +89,7 @@ F﻿. Stir the sand and water mixture so that all the sand is suspended in the w
 
 G﻿. Pour the sand and water mixture into the filter paper. 
 
-
+# <a id="Solutions&Solubility"></a> Solutions & Solubility
 
 •Substances that can dissolve in a liquid form solutions. In solutions the dissolved substance breaks up into pieces so small that light can pass straight through the mixture.
 
@@ -141,7 +141,7 @@ Water dissolves substances from the rocks and soil that it passes through. Water
 
 <!--EndFragment-->
 
-# H﻿eating to Dryness
+# <a id="Evaporation&Heatingtodryness"></a> Evaporation & Heating to dryness
 
 <!--StartFragment-->
 
@@ -183,9 +183,8 @@ H﻿ow to obtain salt from:
 
 2﻿. Sea water
 
-![](salt-from-sea-water.jpg)
+# ﻿ <a id="Chromatography"></a> Chromatography
 
-# C﻿hromatography
 
 Chromatography separates and helps identify different substances found in a mixture.
 
