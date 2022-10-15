@@ -20,6 +20,15 @@ image:
   focal_point: ""
   preview_only: false
 ---
+T﻿his chapter deals with the following subtopics:
+
+* [T﻿ypes of Mixtures](#Typesofmixtures)
+* [F﻿iltration](#Filtration)
+* [S﻿olutions & Solubility](#Solutions&Solubility)
+* [E﻿vaporation & H﻿eating to dryness](#Evaporation&Heatingtodryness)
+* [C﻿hromatography](#Chromatography)
+* [D﻿istillation](#Distillation)
+
 Matter mainly exists as a mixture. 
 
 A﻿ mixture is made up of two or more components physically intermixed. 
