@@ -33,8 +33,7 @@ Matter mainly exists as a mixture.
 
 A﻿ mixture is made up of two or more components physically intermixed. 
 
-
-# <﻿a id="Types of Mixtures"></a>Types of Mixtures
+# ﻿ <a id="TypesofMixtures"></a> Types of Mixtures
 
 ![](types-of-mixtures.png)
 
@@ -90,7 +89,7 @@ F﻿. Stir the sand and water mixture so that all the sand is suspended in the w
 
 G﻿. Pour the sand and water mixture into the filter paper. 
 
-## **S﻿OLUTIONS**
+
 
 •Substances that can dissolve in a liquid form solutions. In solutions the dissolved substance breaks up into pieces so small that light can pass straight through the mixture.
 
