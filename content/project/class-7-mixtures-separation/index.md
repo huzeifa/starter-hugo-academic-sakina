@@ -61,7 +61,7 @@ To make water safe for drinking it must be treated in different ways to remove t
 
 <!--EndFragment-->
 
-# F﻿iltration
+# <a id="F﻿iltration"></a> Filtration
 
 F﻿iltration is a method used to separate an insoluble solid from a liquid or solution. 
 
