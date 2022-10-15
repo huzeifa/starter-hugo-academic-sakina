@@ -176,8 +176,6 @@ H﻿ow to obtain salt from:
 
 ![](salt-from-sea-water.jpg)
 
-
-
 # C﻿hromatography
 
 Chromatography separates and helps identify different substances found in a mixture.
@@ -185,3 +183,57 @@ Chromatography separates and helps identify different substances found in a mixt
 •After water is cleaned at a water treatment plant it must undergo tests to see what is dissolved in it.
 
 •Chromatography is one of the techniques used in water analysis.
+
+![](types-of-chromatography.jpg)
+
+## P﻿aper Chromatography
+
+![](paper-chromatography.png)
+
+Method:
+
+1.Place a concentrated dot of the solution you are testing on the base line of the chromatography paper
+
+2.Suspend the chromatography paper in a beaker filled with a solvent that can dissolve your solution
+
+3.Make sure the base line with concentrated dot of solution is above the solvent in beaker.
+
+4.Cover the beaker with a lid to prevent the solvent evaporating away.
+
+The solvent soaks up the paper and separates the dissolved solutes in the solution being analyzed. Each solute will be dissolved at different rates. The fastest solute will have travelled the furthest along the chromatography paper.
+
+For analyzing colorless substances, UV light is used to make the solutes glow and become visible on chromatogram.
+
+U﻿ses of paper chromatography:
+
+•Identifying the components in mixtures like water, food , urine, blood, sweat, soil and the atmosphere.
+
+•Testing blood and urine samples of athletes for drugs
+
+•Forensic analysis of crime scenes
+
+![](chromatograms.jpg)
+
+
+
+# D﻿istillation
+
+Drinking water may be made from sea water in a process called desalination. Distillation is a process during desalination in which the sea water is heated so that the water evaporates to form steam leaving behind the salt solutes. The steam is collected and cooled so that it condenses back into pure liquid water containing no solutes.
+
+![](desalination.png)
+
+S﻿olar still:
+
+![The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.](solar-still.gif "The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.")
+
+![Lab distillation apparatus](lab-distillation.jpg "Lab distillation apparatus")
+
+![The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.](solar-still.gif "The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.")
+
+F﻿actors affecting distillation
+
+•Amount of heat – the greater the heat available, the faster the distillation. Lab distillation is quicker than distillation using sunlight.
+
+•Rate of condensation – Cold water into condenser should come from the bottom of the condenser instead of the top to ensure all the vapour has condensed before it leaves the condenser.
+
+•Boiling point of the substances in the mixture should be far away from each other. The closer the boiling points of the substances in the mixture, the more impure the final product will be.
