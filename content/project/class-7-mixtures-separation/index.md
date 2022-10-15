@@ -228,8 +228,6 @@ S﻿olar still:
 
 ![Lab distillation apparatus](lab-distillation.jpg "Lab distillation apparatus")
 
-![The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.](solar-still.gif "The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.")
-
 F﻿actors affecting distillation
 
 •Amount of heat – the greater the heat available, the faster the distillation. Lab distillation is quicker than distillation using sunlight.
