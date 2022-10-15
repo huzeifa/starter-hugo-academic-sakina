@@ -33,7 +33,8 @@ Matter mainly exists as a mixture.
 
 A﻿ mixture is made up of two or more components physically intermixed. 
 
-## <a id="T﻿ypes of Mixtures"></a> Types of Mixtures
+
+# <﻿a id="Types of Mixtures"></a>Types of Mixtures
 
 ![](types-of-mixtures.png)
 
