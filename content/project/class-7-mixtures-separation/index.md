@@ -185,7 +185,6 @@ H﻿ow to obtain salt from:
 
 # ﻿ <a id="Chromatography"></a> Chromatography
 
-
 Chromatography separates and helps identify different substances found in a mixture.
 
 •After water is cleaned at a water treatment plant it must undergo tests to see what is dissolved in it.
@@ -222,7 +221,7 @@ U﻿ses of paper chromatography:
 
 ![](chromatograms.jpg)
 
-# Distillation
+#  <a id="Distillation"></a> Distillation 
 
 Drinking water may be made from sea water in a process called desalination. Distillation is a process during desalination in which the sea water is heated so that the water evaporates to form steam leaving behind the salt solutes. The steam is collected and cooled so that it condenses back into pure liquid water containing no solutes.
 
