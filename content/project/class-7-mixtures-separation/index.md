@@ -33,7 +33,7 @@ Matter mainly exists as a mixture.
 
 A﻿ mixture is made up of two or more components physically intermixed. 
 
-### T﻿ypes of Mixtures
+## <a id="T﻿ypes of Mixtures"></a> Types of Mixtures
 
 ![](types-of-mixtures.png)
 
@@ -222,8 +222,6 @@ U﻿ses of paper chromatography:
 •Forensic analysis of crime scenes
 
 ![](chromatograms.jpg)
-
-
 
 # Distillation
 
