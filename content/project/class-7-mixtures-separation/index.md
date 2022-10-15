@@ -2,14 +2,14 @@
 title: "Class 7: Mixtures and their Separation"
 date: 2022-10-13T07:29:50.758Z
 summary: |-
-  T﻿his chapter deals with the following subtopics:
+  This chapter deals with the following subtopics:
 
-  * T﻿ypes of Mixtures
-  * F﻿iltration
-  * S﻿olutions & Solubility
-  * E﻿vaporation & H﻿eating to dryness 
-  * C﻿hromatography
-  * D﻿istillation
+  * Types of Mixtures
+  * Filtration
+  * Solutions & Solubility
+  * Evaporation & H﻿eating to dryness 
+  * Chromatography
+  * Distillation
 draft: false
 featured: false
 tags:
@@ -20,20 +20,20 @@ image:
   focal_point: ""
   preview_only: false
 ---
-T﻿his chapter deals with the following subtopics:
+This chapter deals with the following subtopics:
 
-* [T﻿ypes of Mixtures](#Typesofmixtures)
-* [F﻿iltration](#Filtration)
-* [S﻿olutions & Solubility](#Solutions&Solubility)
-* [E﻿vaporation & H﻿eating to dryness](#Evaporation&Heatingtodryness)
-* [C﻿hromatography](#Chromatography)
-* [D﻿istillation](#Distillation)
+* [Types of Mixtures](#Typesofmixtures)
+* [Filtration](#Filtration)
+* [Solutions & Solubility](#Solutions&Solubility)
+* [Evaporation & Heating to dryness](#Evaporation&Heatingtodryness)
+* [Chromatography](#Chromatography)
+* [Distillation](#Distillation)
 
 Matter mainly exists as a mixture. 
 
-A﻿ mixture is made up of two or more components physically intermixed. 
+A mixture is made up of two or more components physically intermixed. 
 
-# ﻿ <a id="TypesofMixtures"></a> Types of Mixtures
+# <a id="TypesofMixtures"></a> Types of Mixtures
 
 ![](types-of-mixtures.png)
 
@@ -63,9 +63,9 @@ To make water safe for drinking it must be treated in different ways to remove t
 
 # <a id="Filtration"></a> Filtration
 
-F﻿iltration is a method used to separate an insoluble solid from a liquid or solution. 
+Filtration is a method used to separate an insoluble solid from a liquid or solution. 
 
-T﻿he substance from the mixture that is filtered out is called the **filtrate**. The substance that remains behind in the filter paper is called the **residue**.
+The substance from the mixture that is filtered out is called the **filtrate**. The substance that remains behind in the filter paper is called the **residue**.
 
 <!--EndFragment-->
 
@@ -73,21 +73,21 @@ A﻿pparatus:
 
 ![](filtration.png)
 
-M﻿ethod:
+Method:
 
-A﻿. Fold a circular filter paper in half.
+A. Fold a circular filter paper in half.
 
-B﻿. Fold the filter paper in half again to form a triangle shape. 
+B. Fold the filter paper in half again to form a triangle shape. 
 
-C﻿. Open out one layer of the paper to form a cone.
+C. Open out one layer of the paper to form a cone.
 
-D﻿. Place the filter paper cone into a filter funnel.
+D. Place the filter paper cone into a filter funnel.
 
-E﻿. Place the filter funnel into teh neck of a conical flask.
+E. Place the filter funnel into teh neck of a conical flask.
 
-F﻿. Stir the sand and water mixture so that all the sand is suspended in the water. 
+F. Stir the sand and water mixture so that all the sand is suspended in the water. 
 
-G﻿. Pour the sand and water mixture into the filter paper. 
+G. Pour the sand and water mixture into the filter paper. 
 
 # <a id="Solutions&Solubility"></a> Solutions & Solubility
 
@@ -129,7 +129,7 @@ Water dissolves substances from the rocks and soil that it passes through. Water
 
 •In a saturated solution, the extra solute will sink to the bottom and stay undissolved.
 
-**S﻿OLUBILITY**
+**SOLUBILITY**
 
 •The solubility of a solute is the mass that will dissolve in 100g of a solvent.
 
@@ -153,21 +153,21 @@ Heating a solution until all the solvent has evaporated is known as heating to d
 
 ![](heating-to-dryness.png)
 
-M﻿ethod:
+Method:
 
 A. Use a medium flame to heat the solution. 
 
-B﻿. Wear eye protection while heating to prevent eyes getting burnt from spitting of the solution during heating.
+B. Wear eye protection while heating to prevent eyes getting burnt from spitting of the solution during heating.
 
-C﻿. Do not fill evaporating dish more than half full with solution.
+C. Do not fill evaporating dish more than half full with solution.
 
-D﻿. If heating liquid in a tube, make sure open end of tube is not pointing towards anyone.
+D. If heating liquid in a tube, make sure open end of tube is not pointing towards anyone.
 
 E. Always use tongs to hold or move hot things.
 
 F. When most of the liquid has evaporated, turn the burner off. Let the rest of the liquid evaporate more slowly.
 
-G﻿. Always set the Bunsen burner to a safety flame when not in use and just before turning off.
+G. Always set the Bunsen burner to a safety flame when not in use and just before turning off.
 
 <!--EndFragment-->
 
@@ -195,7 +195,7 @@ Chromatography separates and helps identify different substances found in a mixt
 
 ![](types-of-chromatography.jpg)
 
-## P﻿aper Chromatography
+## Paper Chromatography
 
 ![](paper-chromatography.png)
 
@@ -213,7 +213,7 @@ The solvent soaks up the paper and separates the dissolved solutes in the soluti
 
 For analyzing colorless substances, UV light is used to make the solutes glow and become visible on chromatogram.
 
-U﻿ses of paper chromatography:
+Uses of paper chromatography:
 
 •Identifying the components in mixtures like water, food , urine, blood, sweat, soil and the atmosphere.
 
@@ -229,13 +229,13 @@ Drinking water may be made from sea water in a process called desalination. Dist
 
 ![](desalination.png)
 
-S﻿olar still:
+Solar still:
 
 ![The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.](solar-still.gif "The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.")
 
 ![Simple distillation done in the lab ](lab-distillation.jpg "Simple distillation as done in a lab")
 
-F﻿actors affecting simple distillation:
+Factors affecting simple distillation:
 
 •Amount of heat – the greater the heat available, the faster the distillation. Lab distillation is quicker than distillation using sunlight.
 
