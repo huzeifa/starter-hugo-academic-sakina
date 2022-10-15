@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 title: "Class 7: Cells, Tissues, Organs and Organ Systems"
 summary: |-
@@ -7,7 +7,7 @@ summary: |-
 
   * Life Processes
   * Human & Plant Organ Systems
-  * H﻿uman & Plant Organs
+  * Human & Plant Organs
   * Human & Plant Tissues
   * Specialized cells
   * Animal & Plant cells 
@@ -28,13 +28,13 @@ url_code: ""
 ---
 This chapter deals with the following subtopics:
 
-* [L﻿ife Processes](#LifeProcesses)
-* [﻿Human & Plant Organ Systems](#Human&PlantOrganSystems)
-* [H﻿uman & Plant Organs](#Human&PlantOrgans)
+* [Life Processes](#LifeProcesses)
+* [Human & Plant Organ Systems](#Human&PlantOrganSystems)
+* [Human & Plant Organs](#Human&PlantOrgans)
 * [Human & Plant Tissues](#Human&PlantTissues)
 * [Specialized Cells](#SpecializedCells)
 * [Animal & Plant Cells ](#Animal&PlantCells)
-* [C﻿ell Organelles and their Functions](#CellOrganellesandtheirFunctions)
+* [Cell Organelles and their Functions](#CellOrganellesandtheirFunctions)
 
 A **cell** is the smallest unit of life. 
 
