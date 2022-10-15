@@ -11,6 +11,8 @@ summary: |-
   * E﻿nergy efficiency
 draft: false
 featured: false
+tags:
+  - Physics
 image:
   filename: featured
   focal_point: Smart
