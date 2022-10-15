@@ -216,7 +216,7 @@ U﻿ses of paper chromatography:
 
 
 
-# D﻿istillation
+# Distillation
 
 Drinking water may be made from sea water in a process called desalination. Distillation is a process during desalination in which the sea water is heated so that the water evaporates to form steam leaving behind the salt solutes. The steam is collected and cooled so that it condenses back into pure liquid water containing no solutes.
 
@@ -226,24 +226,12 @@ S﻿olar still:
 
 ![The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.](solar-still.gif "The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.")
 
-![Lab distillation apparatus](lab-distillation.jpg "Lab distillation apparatus")
+![Simple distillation done in the lab ](lab-distillation.jpg "Simple distillation as done in a lab")
 
-F﻿actors affecting distillation
+F﻿actors affecting simple distillation:
 
 •Amount of heat – the greater the heat available, the faster the distillation. Lab distillation is quicker than distillation using sunlight.
 
 •Rate of condensation – Cold water into condenser should come from the bottom of the condenser instead of the top to ensure all the vapour has condensed before it leaves the condenser.
 
 •Boiling point of the substances in the mixture should be far away from each other. The closer the boiling points of the substances in the mixture, the more impure the final product will be.
-
-
-
-O﻿ther types of distillation:
-
-![Steam distillation](steam-distillation.jpg "Steam distillation")
-
-
-
-![Fractional distillation - to separate miscible liquids with boiling points close together.](fractional-distillation.png "Fractional distillation is done by heating the mixture so that it evaporates and then each fraction condenses in its own separate compartment. ... If the difference in boiling points is greater than 25°C, a simple distillation is used. Fractionation is done by boiling a mixture in a fractionating column.")
-
-![](separating-funnel.jpg)
