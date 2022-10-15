@@ -15,7 +15,7 @@ tags:
   - Physics
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
 T﻿his chapter deals with the following sub-topics:
