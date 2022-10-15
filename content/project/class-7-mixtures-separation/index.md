@@ -101,6 +101,8 @@ G﻿. Pour the sand and water mixture into the filter paper.
 
 •A solvent is the liquid which is dissolving the solute.
 
+![](solutions.jpg)
+
 Mass of the solution is the same as the mass of solute plus the mass of solvent at the start. No extra mass is gained or lost. This is known as the law of conservation of mass,
 
 Total mass of the solution = mass of solute + mass of solvent
