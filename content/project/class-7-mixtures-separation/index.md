@@ -236,6 +236,10 @@ F﻿actors affecting distillation
 
 •Boiling point of the substances in the mixture should be far away from each other. The closer the boiling points of the substances in the mixture, the more impure the final product will be.
 
+
+
+O﻿ther types of distillation:
+
 ![Steam distillation](steam-distillation.jpg "Steam distillation")
 
 ![Fractional distillation - to separate miscible liquids with boiling points close together.](fractional-distillation.png "Fractional distillation is done by heating the mixture so that it evaporates and then each fraction condenses in its own separate compartment. ... If the difference in boiling points is greater than 25°C, a simple distillation is used. Fractionation is done by boiling a mixture in a fractionating column.")
