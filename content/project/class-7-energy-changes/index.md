@@ -65,3 +65,7 @@ Energy can be transferred (moved) from a store of energy) by:
 •Sound
 
 •Heating
+
+#### Law of Conservation Of Energy
+
+Energy cannot be created or destroyed but can be transferred from one form to another.
