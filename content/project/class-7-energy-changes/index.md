@@ -36,35 +36,33 @@ Different people have different energy requirements per day:
 
 ![](energy-requirements-for-people.jpg)
 
-# <a id="EnergyTransfers&Stores"></a> Energy Transfers & Stores 
+# <a id="EnergyTransfers&Stores"></a> Energy Transfers & Stores
 
 Energy can be stored as:
 
-•Chemical energy in batteries, food and other fuels like petrol/diesel.
+**•Chemical energy** in batteries, food and other fuels like petrol/diesel.
 
-•Thermal energy in hot objects
+**•Thermal energy** in hot objects
 
-•Kinetic energy in all moving objects
+•**Kinetic energy** in all moving objects
 
-•Elastic potential energy (strain) in objects which are stretched, twisted, bent or compressed (squashed).
+**•Elastic potential energy** (strain) in objects which are stretched, twisted, bent or compressed (squashed).
 
-•Gravitational potential energy in objects held at high positions.
+**•Gravitational potential energy** in objects held at high positions.
 
-•Nuclear (atomic) energy inside all materials
-
-
+**•Nuclear** (atomic) energy inside all materials
 
 Energy can be transferred (moved) from a store of energy) by:
 
-•Forces
+**•Forces**
 
-•Light
+**•Light**
 
-•Electricity
+**•Electricity**
 
-•Sound
+**•Sound**
 
-•Heating
+**•Heating**
 
 #### Law of Conservation Of Energy
 
