@@ -25,3 +25,43 @@ T﻿his chapter deals with the following sub-topics:
 * [E﻿nergy flows](#Energyflows)
 * [F﻿uels & Energy resources](#Fuels&Energyresources)
 * [E﻿nergy efficiency](#Energyefficiency)
+
+## <a id="Energyfromfood"></a>Energy from food
+
+Energy is measured in Joules. 
+W﻿e get energy from food.
+Energy in foods is measured in kiloJoules. It is also measured in kilo Calories. 
+1 kCal = 4 kJ
+Different people have different energy requirements per day:
+
+![](energy-requirements-for-people.jpg)
+
+# <a id="EnergyTransfers&Stores"></a> Energy Transfers & Stores 
+
+Energy can be stored as:
+
+•Chemical energy in batteries, food and other fuels like petrol/diesel.
+
+•Thermal energy in hot objects
+
+•Kinetic energy in all moving objects
+
+•Elastic potential energy (strain) in objects which are stretched, twisted, bent or compressed (squashed).
+
+•Gravitational potential energy in objects held at high positions.
+
+•Nuclear (atomic) energy inside all materials
+
+
+
+Energy can be transferred (moved) from a store of energy) by:
+
+•Forces
+
+•Light
+
+•Electricity
+
+•Sound
+
+•Heating
