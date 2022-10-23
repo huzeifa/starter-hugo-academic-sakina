@@ -68,7 +68,7 @@ Energy can be transferred (moved) from a store of energy) by:
 
 <!--StartFragment-->
 
-Energy cannot be created or destroyed but can be transferred from one form to another.
+Energy cannot be created or destroyed but can only be transferred from one form to another.
 
 <!--EndFragment-->
 
