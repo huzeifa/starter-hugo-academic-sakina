@@ -67,3 +67,7 @@ Energy can be transferred (moved) from a store of energy) by:
 #### Law of Conservation Of Energy
 
 # <a id="Energyflows"></a>Energy flows
+
+![](energy-flow.png)
+
+![](energy-flow-2.png)
