@@ -71,3 +71,9 @@ Energy can be transferred (moved) from a store of energy) by:
 ![](energy-flow.png)
 
 ![](energy-flow-2.png)
+
+<!--StartFragment-->
+
+•Since energy is conserved, total energy going into the object equals to the total energy coming out from it.
+
+<!--EndFragment-->
