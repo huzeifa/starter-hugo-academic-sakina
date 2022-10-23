@@ -66,6 +66,12 @@ Energy can be transferred (moved) from a store of energy) by:
 
 #### Law of Conservation Of Energy
 
+<!--StartFragment-->
+
+Energy cannot be created or destroyed but can be transferred from one form to another.
+
+<!--EndFragment-->
+
 # <a id="Energyflows"></a>Energy flows
 
 ![](energy-flow.png)
