@@ -80,7 +80,7 @@ Energy can be transferred (moved) from a store of energy) by:
 
 M﻿ore examples of energy flows in:
 
-* e﻿lectricity solar panels - converts light energy into electrical energy.
+* photovoltaic solar panels - converts light energy into electrical energy
 * a﻿ greenhouse - converts light energy into t.hermal energy.
 * a﻿ television - converts electrical energy into light and sound energy.
 * a﻿n electric heater - converts electrical energy into heat energy
