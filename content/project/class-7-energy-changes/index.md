@@ -109,3 +109,15 @@ M﻿ore examples of energy flows in:
 * a﻿ light mill - converts light energy into kinetic energy.
 * a﻿ wind farm - converts kinetic energy into electrical energy.
 * a﻿ pole vaulter - converts kinetic energy into elastic potential energy into gravitational potential energy.
+
+<!--StartFragment-->
+
+•Since energy is conserved, total energy going into the system equals to the total energy coming out from it.
+
+<!--EndFragment-->
+
+# <﻿a id="Fuels&EnergyResources"></a>Fuels & Energy Resources
+
+•A fuel is a substance that contains a store of chemical or nuclear energy that is transferred into heat and light.
+
+•Energy from burning fuels is used to generate electricity in power stations. These fuels have been mainly fossil fuels.
