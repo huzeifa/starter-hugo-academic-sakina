@@ -121,3 +121,132 @@ M﻿ore examples of energy flows in:
 •A fuel is a substance that contains a store of chemical or nuclear energy that is transferred into heat and light.
 
 •Energy from burning fuels is used to generate electricity in power stations. These fuels have been mainly fossil fuels.
+
+<!--StartFragment-->
+
+FOSSIL FUELS – **Coal, Crude Oil and Natural Gas**
+
+<!--EndFragment-->
+These are made over millions of years under heat and pressure from layers of Earth over the remains of organisms.
+Coal is formed from ferns, plants and trees which hardened due to pressure and heat
+Oil is formed from smaller organisms, like zooplankton and algae. Intense amounts of pressure caused this complex organic matter to decompose into oil. 
+Natural Gas undergoes the same process as oil; however the process is longer and subject to higher amounts of heat and pressure, causing further decomposition.
+**Fossil fuels are non renewable sources of energy** because they cannot be replaced easily once they are used up. It takes millions of years to form them.
+
+![](fossil_fuel_formation.png)
+
+<!--StartFragment-->
+
+**Renewable Fuels** – can easily be made and replaced once they are used up. The rate at which they are used is less than or equal to the rate at which they are made again.
+
+<!--EndFragment--><!--StartFragment-->
+
+•BIOFUELS – made from plant and animal waste. 
+
+![](picture1.jpg)
+
+![](picture3.jpg)
+
+•HYDROGEN GAS – can be made from water. Hydrogen combining with oxygen in fuel cells can produce electricity. Water is the only product which makes hydrogen a clean energy resource.
+
+![](picture2.gif)
+
+<!--StartFragment-->
+
+Other Energy resources
+
+<!--EndFragment--><!--StartFragment-->
+
+•SOLAR POWER – uses energy from sun to:
+
+a) Heat water – solar panels mounted on roofs are tubes full of water which heats up and can be used to heat the building on provide hot water.
+
+![](picture5.png)
+
+b) Produce electricity –
+
+i)solar cells can convert sunlight energy to electricity directly.
+
+![](picture4.jpg)
+
+ii)A solar power station focuses sunlight using mirrors onto a tower. The concentrated heat from the sun onto tower heats up water, turns it into steam which can drive turbines to generate electricity.
+
+![](picture6.jpg)
+
+<!--StartFragment-->
+
+•WIND TURBINES – use the wind to turn turbines to generate electricity.
+
+![](picture7.jpg)
+
+<!--StartFragment-->
+
+•HYDROELECTRIC POWER – use flowing water to turn turbines and generate electricity. Moving water in waves and tides can also be used.
+
+![](picture8.jpg)
+
+<!--StartFragment-->
+
+•GEOTHERMAL POWER – use the heat from rocks underground to heat water, turn it to steam to drive turbines and generate electricity.
+
+![](picture9.jpg)
+
+<!--StartFragment-->
+
+•NUCLEAR ENERGY – uses the energy stored in particles to release heat and light. The heat released can be used to heat water, turn it to steam and drive turbines.
+
+![](picture10.png)
+
+<!--StartFragment-->
+
+Energy resources depending on the sun
+
+<!--EndFragment--><!--StartFragment-->
+
+1.Hydroelectricity:
+
+The sun has a store of nuclear energy that is converted to heat and light which we receive on Earth:
+
+To drive the water cycle by using sun’s energy to evaporate water and continue the water cycle (hydroelectric power therefore depends on the sun)
+
+2. Fossil fuels
+
+Plants use the sunlight energy to convert it to chemical energy by photosynthesis. The chemical energy gets transferred through food chains. When these plants and animals die and get buried under heat and pressure over millions of years they become fossil fuels.
+
+3. Wind & Tidal energy - Energy from the sun also causes wind and waves.
+
+<!--EndFragment-->
+
+E﻿nergy resources that do not depend on the sun:
+
+1﻿. Nuclear fuels
+
+2﻿. Geothermal energy.
+
+
+
+<!--StartFragment-->
+
+How is electricity generated?
+
+<!--EndFragment-->
+
+![](picture11.jpg)
+
+![](picture12.png)
+
+U﻿SING RESOURCES
+
+<!--StartFragment-->
+
+•Renewable energy resources (solar, wind, hydroelectric, geothermal, nuclear, waves and tidal energy) can be regenerated and will never run out but non-renewable energy resources (fossil fuels) are limited and can run out. The rate at which non renewable resources are used up is more than the rate at which they are being formed.
+
+<!--EndFragment--><!--StartFragment-->
+
+<!--EndFragment-->
+
+![](untitled.jpg)
+
+•Burning fossil fuels for energy releases carbon dioxide which is a gas that traps the sun’s heat making the Earth warmer (global warming) leading to climate change.
+
+![](picture13.jpg)
