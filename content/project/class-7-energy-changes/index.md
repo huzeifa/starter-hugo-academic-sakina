@@ -118,7 +118,7 @@ M﻿ore examples of energy flows in:
 
 # <﻿a id="Fuels&EnergyResources"></a>Fuels & Energy Resources
 
-•A fuel is a substance that contains a store of chemical or nuclear energy that is transferred into heat and light.
+•A fuel is a substance that contains a store of chemical or nuclear energy that is transferred into heat and light. A fuel is an energy resource.
 
 •Energy from burning fuels is used to generate electricity in power stations. These fuels have been mainly fossil fuels.
 
@@ -153,7 +153,7 @@ Natural Gas undergoes the same process as oil; however the process is longer 
 
 <!--StartFragment-->
 
-Other Energy resources
+## Other Energy resources
 
 <!--EndFragment--><!--StartFragment-->
 
@@ -250,3 +250,21 @@ U﻿SING RESOURCES
 •Burning fossil fuels for energy releases carbon dioxide which is a gas that traps the sun’s heat making the Earth warmer (global warming) leading to climate change.
 
 ![](picture13.jpg)
+
+# E﻿nergy Efficiency
+
+•Not all the energy transferred by a machine is useful. Some of it is wasted.
+
+•The amount of useful energy transferred compared to the total input energy is called the efficiency of a machine.
+
+![](picture14.png)
+
+<!--StartFragment-->
+
+•An efficient machine has more useful energy transferred than wasted.
+
+•Since an efficient machine wastes less energy and produces more useful energy; it will require less fossil fuel to produce the electricity to run it and so your energy bills will be cheaper.
+
+<!--EndFragment-->
+
+![](picture15.jpg)
