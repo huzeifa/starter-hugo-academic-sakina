@@ -5,6 +5,8 @@ draft: false
 featured: false
 tags:
   - Biology
+categories:
+  - Biology
 image:
   filename: featured
   focal_point: Smart
