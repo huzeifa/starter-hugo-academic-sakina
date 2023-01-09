@@ -3,6 +3,8 @@ title: "Class 7 Reproduction "
 date: 2023-01-09T07:33:04.369Z
 draft: false
 featured: false
+tags:
+  - Biology
 image:
   filename: featured
   focal_point: Smart
