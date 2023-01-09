@@ -250,7 +250,7 @@ U﻿SING RESOURCES
 
 ![](picture13.jpg)
 
-# <a id="Energyefficiency"></a>Energy efficiency
+# <a id="Energyefficiency"></a>Energy efficiency 
 
 •Not all the energy transferred by a machine is useful. Some of it is wasted.
 
