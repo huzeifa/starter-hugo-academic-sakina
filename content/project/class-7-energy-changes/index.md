@@ -127,6 +127,7 @@ M﻿ore examples of energy flows in:
 FOSSIL FUELS – **Coal, Crude Oil and Natural Gas**
 
 <!--EndFragment-->
+
 These are made over millions of years under heat and pressure from layers of Earth over the remains of organisms.
 Coal is formed from ferns, plants and trees which hardened due to pressure and heat
 Oil is formed from smaller organisms, like zooplankton and algae. Intense amounts of pressure caused this complex organic matter to decompose into oil. 
@@ -223,8 +224,6 @@ E﻿nergy resources that do not depend on the sun:
 
 2﻿. Geothermal energy.
 
-
-
 <!--StartFragment-->
 
 How is electricity generated?
@@ -251,7 +250,7 @@ U﻿SING RESOURCES
 
 ![](picture13.jpg)
 
-# E﻿nergy Efficiency
+# <a id="Energyefficiency"></a>Energy efficiency
 
 •Not all the energy transferred by a machine is useful. Some of it is wasted.
 
