@@ -116,7 +116,7 @@ M﻿ore examples of energy flows in:
 
 <!--EndFragment-->
 
-# <﻿a id="Fuels&EnergyResources"></a>Fuels & Energy Resources
+# <a id="Fuels&Energyresources"></a>Fuels & Energy resources
 
 •A fuel is a substance that contains a store of chemical or nuclear energy that is transferred into heat and light. A fuel is an energy resource.
 
