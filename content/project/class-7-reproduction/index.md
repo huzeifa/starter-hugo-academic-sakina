@@ -65,3 +65,5 @@ Egg cells have these adaptations:
 ![](picture6.jpg)
 
 ![](picture7.jpg)
+
+![](picture8.png)
