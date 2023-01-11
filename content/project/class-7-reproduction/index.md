@@ -45,3 +45,23 @@ Egg cells have these adaptations:
 ![](picture1.png)
 
 ![](picture2.png)
+
+# Internal vs External Fertilization 
+
+![](picture3.jpg)
+
+![](picture4.png)
+
+<!--StartFragment-->
+
+# Reproduction in different animals
+
+<!--EndFragment-->
+
+![](picture5.png)
+
+# I﻿nternal vs External development
+
+![](picture6.jpg)
+
+![](picture7.jpg)
