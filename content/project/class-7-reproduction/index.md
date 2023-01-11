@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# **F﻿ertilization**
+**F﻿ertilization**
 
 Fertilization is the fusion of the male and female cell nuclei to form a zygote. 
 
