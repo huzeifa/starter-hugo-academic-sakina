@@ -28,6 +28,22 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+T﻿his chapter deals with the following subtopics:
+
+\-﻿Fertilisation
+
+\-﻿ Adaptations of male and female gametes for fertilization
+
+\-﻿ Internal vs External fertilisation
+
+\-﻿ Internal vs External development
+
+\-﻿ Reproduction in different animals
+
+\-﻿ Human development and Birth
+
+\- ﻿Puberty
+
 **F﻿ertilization**
 
 Fertilization is the fusion of the male and female cell nuclei to form a zygote. 
@@ -136,7 +152,7 @@ Pregnancy cravings can be caused by a number of things, including hormones, a h
 
 <!--EndFragment-->
 
-# B﻿irth
+## B﻿irth
 
 <!--StartFragment-->
 
