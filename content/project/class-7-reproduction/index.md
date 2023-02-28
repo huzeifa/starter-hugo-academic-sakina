@@ -68,6 +68,8 @@ Egg cells have these adaptations:
 
 # I﻿nternal vs External fertilisation
 
+![](internal-fertilisation.jpg)
+
 ![](picture6.jpg)
 
 # Internal vs External Development
@@ -77,10 +79,6 @@ Egg cells have these adaptations:
 <!--StartFragment-->
 
 
-
-![](picture5.png)
-
-![](picture6.jpg)
 
 # Reproduction in different animals
 
