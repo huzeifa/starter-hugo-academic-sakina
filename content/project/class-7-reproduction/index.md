@@ -30,21 +30,15 @@ image:
 ---
 T﻿his chapter deals with the following subtopics:
 
-\-﻿ Fertilisation
+* Fertilisation
+* Adaptations of male and female gametes for fertilization
+* Internal vs External fertilisation
+* Internal vs External development
+* Reproduction in different animals
+* Human development and Birth
+* ﻿Puberty
 
-\-﻿ Adaptations of male and female gametes for fertilization
-
-\-﻿ Internal vs External fertilisation
-
-\-﻿ Internal vs External development
-
-\-﻿ Reproduction in different animals
-
-\-﻿ Human development and Birth
-
-\- ﻿Puberty
-
-**F﻿ertilization**
+# **F﻿ertilization**
 
 Fertilization is the fusion of the male and female cell nuclei to form a zygote. 
 
