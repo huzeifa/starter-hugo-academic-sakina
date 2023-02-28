@@ -80,15 +80,13 @@ Egg cells have these adaptations:
 
 
 
+![](picture8.png)
+
 # Reproduction in different animals
 
 <!--EndFragment-->
 
 ![](picture5.png)
-
-![](picture7.jpg)
-
-![](picture8.png)
 
 
 
