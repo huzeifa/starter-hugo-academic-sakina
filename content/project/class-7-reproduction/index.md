@@ -30,7 +30,7 @@ image:
 ---
 T﻿his chapter deals with the following subtopics:
 
-\-﻿Fertilisation
+\-﻿ Fertilisation
 
 \-﻿ Adaptations of male and female gametes for fertilization
 
