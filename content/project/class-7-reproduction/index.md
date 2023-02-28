@@ -1,6 +1,22 @@
 ---
 title: "Class 7 Reproduction "
 date: 2023-01-09T07:33:04.369Z
+summary: |-
+  T﻿his chapter deals with the following subtopics:
+
+  \-﻿Fertilisation
+
+  \-﻿ Adaptations of male and female gametes for fertilization
+
+  \-﻿ Internal vs External fertilisation
+
+  \-﻿ Internal vs External development
+
+  \-﻿ Reproduction in different animals
+
+  \-﻿ Human development and Birth
+
+  \- ﻿Puberty
 draft: false
 featured: false
 tags:
@@ -54,15 +70,19 @@ Egg cells have these adaptations:
 
 <!--StartFragment-->
 
-# Reproduction in different animals
 
-<!--EndFragment-->
 
 ![](picture5.png)
 
 # I﻿nternal vs External development
 
 ![](picture6.jpg)
+
+# Reproduction in different animals
+
+<!--EndFragment-->
+
+![](picture5.png)
 
 ![](picture7.jpg)
 
