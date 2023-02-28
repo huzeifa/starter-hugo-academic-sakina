@@ -78,7 +78,7 @@ Egg cells have these adaptations:
 
 <!--StartFragment-->
 
-
+I﻿n summary:
 
 ![](picture8.png)
 
