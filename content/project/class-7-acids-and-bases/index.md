@@ -91,3 +91,21 @@ Alkalis are bases that are soluble in water.
 Acid + Alkali → Salt + Water
 
 Acids and Alkalis cancel each other out (neutralize)
+
+<!--StartFragment-->
+
+Neutralization produces substances called salts.
+
+•Hydrochloric acid produce ‘chloride’ salts
+
+•Sulphuric acid produces ‘sulphate’ Salts
+
+•Nitric acid produces ‘nitrate’ salts
+
+hydrochloric acid + sodium hydroxide → sodium chloride + water
+
+sulphuric acid + lithium hydroxide → lithium sulphate + water
+
+nitric acid  + potassium hydroxide → potassium nitrate + water
+
+<!--EndFragment-->
