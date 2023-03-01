@@ -5,6 +5,8 @@ draft: false
 featured: false
 tags:
   - Chemistry
+categories:
+  - Chemistry
 image:
   filename: featured
   focal_point: Smart
