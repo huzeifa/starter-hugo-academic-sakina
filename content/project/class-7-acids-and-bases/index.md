@@ -3,6 +3,8 @@ title: "Class 7:  Acids and Bases"
 date: 2023-03-01T08:36:22.539Z
 draft: false
 featured: false
+tags:
+  - Chemistry
 image:
   filename: featured
   focal_point: Smart
