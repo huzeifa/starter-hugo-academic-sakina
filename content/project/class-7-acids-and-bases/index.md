@@ -102,10 +102,26 @@ Neutralization produces substances called salts.
 
 •Nitric acid produces ‘nitrate’ salts
 
+### E﻿xamples of neutralisation reactions: 
+
 hydrochloric acid + sodium hydroxide → sodium chloride + water
 
 sulphuric acid + lithium hydroxide → lithium sulphate + water
 
 nitric acid  + potassium hydroxide → potassium nitrate + water
+
+<!--EndFragment-->
+
+## T﻿itration
+
+<!--StartFragment-->
+
+Titrations are often carried out by using a neutralization reaction between an acid and an alkali. <!--
+
+![](titration.png)
+
+Titrations can tell you the volume of acid needed to neutralise a fixed volume of alkali.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
