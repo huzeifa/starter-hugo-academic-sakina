@@ -79,3 +79,15 @@ Examples are:
 <!--EndFragment-->
 
 ![](phprobe.jpg)
+
+# N﻿eutralisation
+
+T﻿his is a chemical reaction where an acid and base react together to form a salt and water.
+
+Acid + Base → Salt + Water
+
+Alkalis are bases that are soluble in water.
+
+Acid + Alkali → Salt + Water
+
+Acids and Alkalis cancel each other out (neutralize)
