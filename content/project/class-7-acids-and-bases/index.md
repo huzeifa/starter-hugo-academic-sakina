@@ -126,7 +126,7 @@ Titrations can tell you the volume of acid needed to neutralise a fixed volume o
 
 <!--EndFragment-->
 
-E﻿xamples of neutralisation reactions in daily life:
+## E﻿xamples of neutralisation reactions in daily life:
 
 <!--StartFragment-->
 
