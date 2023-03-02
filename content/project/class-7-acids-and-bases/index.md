@@ -28,6 +28,10 @@ T﻿his chapter deals with the following subtopics:
 
 <!--StartFragment-->
 
+
+
+
+
 •Acids are substances turn litmus red and have a pH of less than 7
 
 •Alkalis are substances that turn litmus blue and has a pH more than 7. Alkalis are soluble bases.
