@@ -1,6 +1,13 @@
 ---
 title: "Class 7:  Acids and Bases"
 date: 2023-03-01T08:36:22.539Z
+summary: |-
+  T﻿his chapter deals with the following subtopics:
+
+  * I﻿ndicators
+  * N﻿eutralisation reactions
+  * N﻿eutralisation in daily life
+  * H﻿azard Symbols
 draft: false
 featured: false
 tags:
@@ -12,6 +19,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+T﻿his chapter deals with the following subtopics:
+
+* I﻿ndicators
+* N﻿eutralisation reactions
+* N﻿eutralisation in daily life
+* H﻿azard Symbols
+
 <!--StartFragment-->
 
 •Acids are substances turn litmus red and have a pH of less than 7
@@ -82,7 +96,7 @@ Examples are:
 
 ![](phprobe.jpg)
 
-# N﻿eutralisation
+# N﻿eutralisation reactions
 
 T﻿his is a chemical reaction where an acid and base react together to form a salt and water.
 
@@ -126,9 +140,9 @@ Titrations can tell you the volume of acid needed to neutralise a fixed volume o
 
 <!--EndFragment-->
 
-## E﻿xamples of neutralisation reactions in daily life:
+# N﻿eutralisation in daily life
 
-<!--StartFragment-->
+###### E﻿xamples of neutralisation reactions in daily life:
 
 •If soil is too acidic, farmers add lime (an alkali) to cancel out the acid and make soil neutral.
 
@@ -164,7 +178,7 @@ Titrations can tell you the volume of acid needed to neutralise a fixed volume o
 
 <!--EndFragment-->
 
-H﻿azard Symbols
+# H﻿azard Symbols
 
 •A Hazard is something that can cause harm.
 
