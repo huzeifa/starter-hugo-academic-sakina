@@ -13,3 +13,15 @@ image:
   preview_only: false
 ---
 ![](electricity.png)
+
+<!--StartFragment-->
+
+An electric circuit is a path for electric charge (electrons) to flow along.
+
+<!--EndFragment-->
+
+# C﻿ircuit Symbols
+
+![](circuitsymbols1.jpg)
+
+![](circuitsymbols2.jpg)
