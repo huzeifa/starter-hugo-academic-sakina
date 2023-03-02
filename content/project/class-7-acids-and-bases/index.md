@@ -40,6 +40,8 @@ T﻿he pH of soil affects flower colour. <!--StartFragment-->
 
 <!--EndFragment-->
 
+
+
 ![](flowers.png)
 
 # I﻿ndicators
@@ -102,7 +104,7 @@ Neutralization produces substances called salts.
 
 •Nitric acid produces ‘nitrate’ salts
 
-### E﻿xamples of neutralisation reactions: 
+### E﻿xamples of neutralisation reactions:
 
 hydrochloric acid + sodium hydroxide → sodium chloride + water
 
@@ -124,4 +126,54 @@ Titrations can tell you the volume of acid needed to neutralise a fixed volume o
 
 <!--EndFragment-->
 
+E﻿xamples of neutralisation reactions in daily life:
+
+<!--StartFragment-->
+
+•If soil is too acidic, farmers add lime (an alkali) to cancel out the acid and make soil neutral.
+
+•If soil is too alkaline, farmers add manure (acidic) to make soil neutral
+
+![](farmers.png)
+
+•Nitric acid and Ammonium hydroxide (alkali) react to form Ammonium nitrate which is used to fertilize soil (allow plants to grow healthy.)
+
+![](fertiliser.jpg)
+
+•Too much acid in the stomach causing heartburn and indigestion can be neutralized by an antacid such as Milk of Magnesia containing magnesium hydroxide (base)
+
+![](antacid.jpg)
+
+•Toothpaste contains bases like magnesium hydroxide and calcium hydroxide which react with acids in your mouth to reduce acidity.
+
+•Bee stings are acidic and can be neutralized with weak alkalis such as baking soda. 
+
+![](beestings.png)
+
+•Wasp stings are alkaline and can be neutralized with a weak acid like vinegar.
+
+![](waspstings.png)
+
+•Rust is a base called iron oxide. It can be removed by neutralization with sulphuric acid.
+
+![](rustrem.jpg)
+
+•Acidic waste gases from industries are neutralized by sprays of calcium hydroxide to prevent acid rain.
+
+![](industrial.jpg)
+
 <!--EndFragment-->
+
+H﻿azard Symbols
+
+•A Hazard is something that can cause harm.
+
+•Acids and Alkalis may cause harm. They can be corrosive when concentrated and when dilute can be irritants.
+
+![](hazardcorrosive.jpg "Hazard symbol meaning corrosive - for strong and concentrated acids and alkalis that can eat away metal and skin.")
+
+<!--EndFragment-->
+
+![](irritant.jpg.png "Hazard symbol meaning Irritant - for dilute acids and alkalis")
+
+![](hazard.gif)
