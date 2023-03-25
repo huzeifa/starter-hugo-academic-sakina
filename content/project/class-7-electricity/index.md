@@ -54,3 +54,5 @@ Current is the same everywhere in a series circuit.
 C﻿urrent is shared accross branches in a parallel circuit. The current entering the circuit is split across the branches and then is added up again so that current leaving the circuit is the same as current entering it.
 
 ![](current_in_a_parallel_circuit.png)
+
+ <iframe width="962" height="541" src="https://www.youtube.com/embed/ieooOjVBmbw" title="Current in a parallel circuit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
