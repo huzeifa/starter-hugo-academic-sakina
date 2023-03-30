@@ -3,6 +3,10 @@ title: Class 7 - The Particle Theory
 date: 2023-03-30T06:45:07.346Z
 draft: false
 featured: false
+tags:
+  - Chemistry
+categories:
+  - Chemistry
 image:
   filename: featured
   focal_point: Smart
