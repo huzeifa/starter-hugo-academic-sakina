@@ -32,9 +32,7 @@ Acids are substances turn litmus paper red and have a pH of less than 7.
 
 Alkalis are substances that turn litmus paper blue and have a pH more than 7. Alkalis are soluble bases. 
 
-Acids and Bases can cancel each other out to become neutral
-
-Neutral substances have a pH of 7
+Acids and Bases can cancel each other out to become neutral. Neutral substances have a pH of 7.
 
 The pH scale measured using Universal Indicator shows the strength of acids and alkalis from 1 to 14.
 
@@ -42,7 +40,7 @@ The pH scale measured using Universal Indicator shows the strength of acids and 
 
 ![](ph.png)
 
-![](acids-and-bases.png)
+![](acids-and-bases.png "Examples of Acids & Bases")
 
 P﻿ure water is neutral.
 
