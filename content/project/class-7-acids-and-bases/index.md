@@ -28,19 +28,15 @@ T﻿his chapter deals with the following subtopics:
 
 <!--StartFragment-->
 
+Acids are substances turn litmus paper red and have a pH of less than 7.
 
+Alkalis are substances that turn litmus paper blue and have a pH more than 7. Alkalis are soluble bases. 
 
+Acids and Bases can cancel each other out to become neutral
 
+Neutral substances have a pH of 7
 
-•Acids are substances turn litmus red and have a pH of less than 7
-
-•Alkalis are substances that turn litmus blue and has a pH more than 7. Alkalis are soluble bases.
-
-•Acids and Bases can cancel each other out to become neutral
-
-•Neutral substances have a pH of 7
-
-•The pH scale measured using Universal Indicator shows the strength of acids and alkalis from 1 to 14.
+The pH scale measured using Universal Indicator shows the strength of acids and alkalis from 1 to 14.
 
 <!--EndFragment-->
 
@@ -57,8 +53,6 @@ T﻿he pH of soil affects flower colour. <!--StartFragment-->
 •Hydrangea flowers are blue in acidic soil with a pH of 5.5 or lower. Blooms are pink if soil pH is 7 or higher.
 
 <!--EndFragment-->
-
-
 
 ![](flowers.png)
 
