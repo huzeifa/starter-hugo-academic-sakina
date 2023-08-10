@@ -143,3 +143,57 @@ The gravitational field strength on the moon is about 2N/kg so weight on the moo
 ![](calculate_mass.png)
 
 ![](weight-vs-mass.png)
+
+<!--StartFragment-->
+
+## The force meter – used to measure Force (weight)
+
+![]()
+
+Springs are used inside force meters that are used to measure weights of certain masses.
+
+If the meter is measuring a small weight, the spring stretches by a small amount. If the meter is measuring a large weight, it stretches by a larger amount.
+
+Most force meters have a force limit to them so weights exceeding that limit cannot be measured using them.
+
+<!--StartFragment-->
+
+### Extension and Springs
+
+<!--StartFragment-->
+
+•When a force / weight is applied on some materials, it can cause them to stretch or compress leading to an extension (a change in length from original length of spring)
+
+•Springs extend when weights are placed on them. With springs, the extension is proportional to the force up to a certain point after which the spring can permanently get deformed or even snap. This was known as Hooke’s law.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Hooke’s law states: Extension of a spring is directly proportional to the force until the elastic limit (or limit of proportionality) is reached.
+
+This means that with every increase in force applied to the spring, the extension will increase by the same amount up to a certain point after which the spring can snap or lose its elasticity.
+
+<!--EndFragment-->
+
+![](extension.jpg)
+
+<!--StartFragment-->
+
+The spring stretches by the same amount (x) as you keep increasing the amount of force (F) steadily on the spring.\
+\
+So Hooke’s law: force is directly proportional to extension means: Doubling force, doubles extension; tripling the force, triples extension)
+
+<!--EndFragment-->
+
+![](hooke-s-law.png)
+
+<!--StartFragment-->
+
+There’s a limit to the amount of force a spring can withstand. When this elastic limit is passed, the spring gets deformed and Hooke’s law no longer works which means with increase in force, the extension will not be the same. 
+
+<!--EndFragment-->
+
+![](force-vs-extension.png)
+
+![](hooke-s-law-apparatus.gif)
