@@ -22,7 +22,7 @@ image:
 
 <!--EndFragment--><!--StartFragment-->
 
-T﻿ypes of forces:
+**T﻿ypes of forces:**
 
 •Contact Force -  force between objects that are touching each other. e.g friction, upthrust , reaction force 
 
