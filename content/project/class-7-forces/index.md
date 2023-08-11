@@ -197,3 +197,19 @@ There’s a limit to the amount of force a spring can withstand. When this elast
 ![](force-vs-extension.png)
 
 ![](hooke-s-law-apparatus.gif)
+
+<!--StartFragment-->
+
+##### Investigating Hooke’s law: Force is proportional to extension until elastic limit is reached.
+
+![](hooke-s-law-graph.png)
+
+With every 0.4N of force, the extension increases constantly by 2cm. The spring is obeying Hooke’s law.
+
+Elastic limit/ Limit of proportionality is at 1.6N. When force added is greater than 1.6N the extension does not increase constantly.
+
+After elastic limit the spring does not return to its original shape.
+
+<!--EndFragment-->
+
+![](elastic-vs-plastic-spring.png)
