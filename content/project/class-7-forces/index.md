@@ -148,8 +148,6 @@ The gravitational field strength on the moon is about 2N/kg so weight on the moo
 
 ## The force meter – used to measure Force (weight)
 
-![]()
-
 Springs are used inside force meters that are used to measure weights of certain masses.
 
 If the meter is measuring a small weight, the spring stretches by a small amount. If the meter is measuring a large weight, it stretches by a larger amount.
