@@ -34,7 +34,7 @@ image:
 
 <!--StartFragment-->
 
-# **Friction** 
+# **Friction**
 
 Friction acts to slow objects down. Friction is the force opposing motion. It produces heat.
 
@@ -213,3 +213,17 @@ After elastic limit the spring does not return to its original shape.
 <!--EndFragment-->
 
 ![](elastic-vs-plastic-spring.png)
+
+B﻿alanced and Unbalanced Forces
+
+B﻿alanced forces are forces on an object that are the same size but work in opposite directions. If forces are balanced:
+
+* a stationary object stays stationary.
+* a﻿ moving object continues to move at the same speed and in the same direction.
+
+I﻿f there are unbalanced forces on an object:
+
+* a﻿ stationary object will start to move.
+* a﻿ moving object will change its speed or direction.
+
+![](unbalanced-vs-balanced-forces.png)
