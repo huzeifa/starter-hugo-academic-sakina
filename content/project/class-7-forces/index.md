@@ -214,7 +214,7 @@ After elastic limit the spring does not return to its original shape.
 
 ![](elastic-vs-plastic-spring.png)
 
-B﻿alanced and Unbalanced Forces
+# B﻿alanced and Unbalanced Forces
 
 B﻿alanced forces are forces on an object that are the same size but work in opposite directions. If forces are balanced:
 
@@ -227,3 +227,19 @@ I﻿f there are unbalanced forces on an object:
 * a﻿ moving object will change its speed or direction.
 
 ![](unbalanced-vs-balanced-forces.png)
+
+<!--StartFragment-->
+
+## Resultant Force
+
+<!--EndFragment-->
+
+T﻿he resultant force is the overall force with which an object moves in the direction of the greater force.
+
+W﻿hen forces are balanced, the resultant force is zero. 
+
+![](resultant-force.png)
+
+<!--EndFragment-->
+
+![](resultant-force-2.png.jpg)
