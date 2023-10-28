@@ -244,7 +244,7 @@ W﻿hen forces are balanced, the resultant force is zero.
 
 ![](resultant-force-2.png.jpg)
 
-## Pressure, Force and Area
+# Pressure, Force and Area
 
 Pressure is the force of particles pushing on an area,
 
