@@ -3,6 +3,8 @@ title: SI Units
 date: 2023-10-28T08:28:37.683Z
 draft: false
 featured: false
+categories:
+  - Physics
 image:
   filename: featured
   focal_point: Smart
