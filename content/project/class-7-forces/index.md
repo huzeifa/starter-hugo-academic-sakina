@@ -245,3 +245,34 @@ W﻿hen forces are balanced, the resultant force is zero.
 <!--EndFragment-->
 
 ![](resultant-force-2.png.jpg)
+
+## Pressure, Force and Area
+
+Pressure is the force of particles pushing on an area,
+
+![](pressure.png)
+
+<!--StartFragment-->
+
+The units for Pressure are Pascals (Pa)\
+1Pa = 1N/m2
+
+<!--EndFragment-->
+
+![](pascals.jpg)
+
+<!--StartFragment-->
+
+•For the same force; a large area gives less pressure and a small area, gives high pressure.
+
+<!--EndFragment-->
+
+![](large-area-less-pressure.jpg)
+
+<!--StartFragment-->
+
+•For the same area, a large force gives high pressure and a small force gives low pressure
+
+<!--EndFragment-->
+
+![](large-force-large-pressure.png)
