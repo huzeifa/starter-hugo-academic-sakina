@@ -149,3 +149,75 @@ Red blood cells and white blood cells are made in the bone marrow tissue in bone
 <!--EndFragment-->
 
 ![](blood.png)
+
+<!--StartFragment-->
+
+# THE SKELETON
+
+<!--EndFragment-->
+
+![](skeleton.png)
+
+<!--StartFragment-->
+
+Bones are hard, strong (to withstand pressure) and light (can be moved easily). They are living organs containing the following tissue:
+
+•Cartilage tissue – flexible but resists stretching
+
+•Osteoblast tissue – bone making cells called osteoblasts make compact bone and spongy bone
+
+•Bone marrow tissue – reduces mass of bone and makes blood cells.
+
+<!--EndFragment-->
+
+![](bone.png)
+
+![](bone-anatomy.png)
+
+<!--StartFragment-->
+
+*FUNCTIONS OF THE SKELETON*
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+* •Support -The human body’s main support is the backbone made up of smaller bones called the Vertebrae. Bones like the ribcage help support internal organ
+* •Protection – Bones protect internal organs e.g the skull protecting the brain from injury
+* Movement –
+
+•Two bones next to each other can form a joint.
+
+Types of Joint:
+
+•Fixed joint – where bones meet but cannot move e.g. in the skull
+
+•Flexible Joint – where bones can be moved by muscles. The muscles are attached to the bones by tendons. Ligaments hold the two bones together. Cartilage is a slippery tissue that can allow the two bones to slide past each other.
+
+![](joint.png)
+
+<!--EndFragment--><!--StartFragment-->
+
+Flexible joints include:
+
+Hinge joint – e.g elbows & knees
+
+Ball and Socket joint e.g. Hips & shoulders
+
+<!--EndFragment-->
+
+![](joints.jpg)
+
+<!--StartFragment-->
+
+## Muscles and Moving
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+The muscles and bones form the locomotor organ system which allows you to move the parts of your body. Biomechanics is the study of how muscles and bones work together.
+
+Thicker bones are needed to support bigger muscles.
+
+<!--EndFragment-->
