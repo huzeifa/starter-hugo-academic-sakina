@@ -221,3 +221,85 @@ The muscles and bones form the locomotor organ system which allows you to move t
 Thicker bones are needed to support bigger muscles.
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+**ANTAGONISTIC MUSCLES**
+
+<!--EndFragment-->
+
+A muscle can only pull on a bone and not push back on it. So in order to lift *and* lower a bone, it needs two separate muscles that are antagonistic to each other - which means if one contracts to lift the bone, the other relaxes.  
+
+E.g. To lift the lower arm bone, biceps muscles contract and the triceps muscles relax. To lower the arm bone back, the triceps contract while the biceps relax. Therefore biceps and triceps are an antagonistic muscle pair.
+
+![](biceps-and-triceps.gif)
+
+O﻿ther examples of antagonistic muscle pairs in the body are:
+
+* w﻿rist flexor and wrist extensor to move the wrist bone
+* c﻿alf and shin muscles to move the foot
+* b﻿iceps femoris and quadriceps to move the lower leg.
+
+![](antagonistic-muscles.jpg)
+
+<!--StartFragment-->
+
+# DRUGS 
+
+A drug is a substance that affects/changes the way your body works.
+
+<!--StartFragment-->
+
+Types of Drugs:
+
+<!--EndFragment-->
+
+![](types-of-drugs.png)
+
+<!--StartFragment-->
+
+**Medicinal Drugs**
+
+<!--StartFragment-->
+
+These types of drugs help people fight diseases and recover from injuries.
+
+Examples include:
+
+* Paracetamol that reduces swelling
+* Ibuprofen which reduces pain and swelling
+* Decongestants to help recover from flu by helping you breathe easily e.g. Salbutamol is used to treat asthma by relaxing airway muscles and decongesting them making it easier to breathe.
+* Antibiotics to kill bacteria in bacterial infections
+* Antivirals to fight virus related infections
+* Antifungals to kill fungi infections
+
+Although these drugs are useful they may have harmful side effects e.g most drugs can damage the liver whose job is to break drugs down in the body.
+
+<!--EndFragment-->
+
+<!--EndFragment--><!--StartFragment-->
+
+**Recreational drugs** -
+
+<!--EndFragment--><!--StartFragment-->
+
+* Legal recreational drugs – Caffeine (stimulant), nicotine (stimulant) and alcohol(depressant).
+* Illegal recreational drugs – Cannabis (cause memory loss and mental illness), Ecstasy (a stimulant causing mental illness, kidney problems and even death), Cocaine (a stimulant which blocks arteries), Heroin (a depressant causing collapses veins, vomiting and severe headaches) 
+
+![](drugs_illegal.png)
+
+**Substance Misuse** – is the harmful use of drugs.
+
+<!--EndFragment--><!--StartFragment-->
+
+•Drugs can become addictive which means people feel like they can’t live without them. Addicts are people who are addicted to drugs and keep using them even though the drugs cause them harm.
+
+•Overdoses of drugs can lead to death.
+
+•Overuse of steroids (medicinal drugs that work like hormones) can cause drastic changes in a person’s body.
+
+<!--EndFragment-->
+
+
+
+<!--EndFragment-->
