@@ -1,5 +1,5 @@
 ---
-title: Class 7 Ecosystems
+title: Class 7 Ecosystems & Variation
 date: 2023-12-10T09:39:42.486Z
 draft: false
 featured: false
@@ -127,7 +127,7 @@ All organisms show inherited variation and environmental variation
 
 <!--StartFragment-->
 
-How does the environment affect organisms?
+### How does the environment affect organisms?
 
 <!--EndFragment--><!--StartFragment-->
 
@@ -157,7 +157,7 @@ How does the environment affect organisms?
 
 <!--StartFragment-->
 
-How do organisms affect their environment?
+### How do organisms affect their environment?
 
 <!--EndFragment--><!--StartFragment-->
 
