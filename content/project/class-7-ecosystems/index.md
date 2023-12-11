@@ -189,6 +189,8 @@ Human activities such as deforestation and competition for these resources can f
 
 <!--StartFragment-->
 
+### I﻿nterdependence
+
 The organisms in an ecosystem all depend on each other. They are interdependent. E.g. birds use trees for shelter and plants use animal waste (containing mineral salts) to help them grow. A food chain shows how organisms depend on each other for food.
 
 <!--EndFragment-->
@@ -213,7 +215,7 @@ Populations are affected by availability of food. Organisms compete for food. In
 
 <!--StartFragment-->
 
-Pyramid of numbers – show number of organisms at each stage of a food chain.
+#### Pyramid of numbers – show number of organisms at each stage of a food chain.
 
 <!--EndFragment--><!--StartFragment-->
 
