@@ -19,13 +19,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-T﻿his chapter deals with the following subtopics:
-
-* I﻿ndicators
-* N﻿eutralisation reactions
-* N﻿eutralisation in daily life
-* H﻿azard Symbols
-
 <!--StartFragment-->
 
 Acids are substances turn litmus paper red and have a pH of less than 7.
