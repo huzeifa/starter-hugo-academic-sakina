@@ -26,16 +26,6 @@ image:
   filename: ""
 url_code: ""
 ---
-This chapter deals with the following subtopics:
-
-* [Life Processes](#LifeProcesses)
-* [Human & Plant Organ Systems](#Human&PlantOrganSystems)
-* [Human & Plant Organs](#Human&PlantOrgans)
-* [Human & Plant Tissues](#Human&PlantTissues)
-* [Specialized Cells](#SpecializedCells)
-* [Animal & Plant Cells ](#Animal&PlantCells)
-* [Cell Organelles and their Functions](#CellOrganellesandtheirFunctions)
-
 A **cell** is the smallest unit of life. 
 
 Cells of the same type make a **tissue**. 
