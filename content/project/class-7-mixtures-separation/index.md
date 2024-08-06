@@ -20,15 +20,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-This chapter deals with the following subtopics:
-
-* [Types of Mixtures](#Typesofmixtures)
-* [Filtration](#Filtration)
-* [Solutions & Solubility](#Solutions&Solubility)
-* [Evaporation & Heating to dryness](#Evaporation&Heatingtodryness)
-* [Chromatography](#Chromatography)
-* [Distillation](#Distillation)
-
 Matter mainly exists as a mixture. 
 
 A mixture is made up of two or more components physically intermixed. 
@@ -223,7 +214,7 @@ Uses of paper chromatography:
 
 ![](chromatograms.jpg)
 
-#  <a id="Distillation"></a> Distillation 
+# <a id="Distillation"></a> Distillation
 
 Drinking water may be made from sea water in a process called desalination. Distillation is a process during desalination in which the sea water is heated so that the water evaporates to form steam leaving behind the salt solutes. The steam is collected and cooled so that it condenses back into pure liquid water containing no solutes.
 
