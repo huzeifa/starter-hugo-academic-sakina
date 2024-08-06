@@ -22,15 +22,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-T﻿his chapter deals with the following subtopics:
-
-* Fertilisation
-* Adaptations of male and female gametes for fertilization
-* Internal vs External fertilisation
-* Internal vs External development
-* Reproduction in different animals
-* Human development and Birth
-* ﻿Puberty
+A﻿ll living things make more of themselves by reproduction.
 
 # **F﻿ertilization**
 
@@ -88,8 +80,6 @@ I﻿n summary:
 
 ![](picture5.png)
 
-
-
 # Human Development and Birth
 
 <!--StartFragment-->
@@ -105,8 +95,6 @@ The fertilized egg (zygote) divides to form a ball of cells called an embryo. T
 The fetus is protected by the uterus and the amniotic fluid, a liquid contained in a bag called the amnion that acts as a shock absorber.
 
 <!--EndFragment-->
-
-
 
 ## T﻿he Placenta
 
