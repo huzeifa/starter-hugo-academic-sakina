@@ -18,14 +18,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-T﻿his chapter deals with the following sub-topics:
-
-* [E﻿nergy from food](#Energyfromfood)
-* [E﻿nergy Transfers & Stores](#EnergyTransfers&Stores)
-* [E﻿nergy flows](#Energyflows)
-* [F﻿uels & Energy resources](#Fuels&Energyresources)
-* [E﻿nergy efficiency](#Energyefficiency)
-
 ## <a id="Energyfromfood"></a>Energy from food
 
 Energy is measured in Joules. 
@@ -250,7 +242,7 @@ U﻿SING RESOURCES
 
 ![](picture13.jpg)
 
-# <a id="Energyefficiency"></a>Energy efficiency 
+# <a id="Energyefficiency"></a>Energy efficiency
 
 •Not all the energy transferred by a machine is useful. Some of it is wasted.
 
