@@ -20,6 +20,6 @@ email: sakinatayabali2401@gmail.com
 superuser: true
 highlight_name: true
 ---
-I have 5 years of experience in teaching Grade 7, 8 and 9 students biology, chemistry and physics.  I give importance to planning well for my lessons and conducting them using a variety of teaching methods and resources. I aim to make my students understand the subject content so that they can be able to apply it to real life. 
+I have 7 years of experience in teaching Grade 7, 8 and 9 students biology, chemistry and physics.  I give importance to planning well for my lessons and conducting them using a variety of teaching methods and resources. I aim to make my students understand the subject content so that they can be able to apply it to real life. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/sakinahuzeifa-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
