@@ -2,16 +2,7 @@
 slides: ""
 url_pdf: ""
 title: "Class 7: Cells, Tissues, Organs and Organ Systems"
-summary: |-
-  This chapter deals with the following subtopics:
-
-  * Life Processes
-  * Human & Plant Organ Systems
-  * Human & Plant Organs
-  * Human & Plant Tissues
-  * Specialized cells
-  * Animal & Plant cells 
-  * Functions of cell organelles
+summary: ""
 url_video: ""
 date: 2022-06-05T08:51:58.173Z
 external_link: ""
