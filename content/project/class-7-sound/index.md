@@ -38,6 +38,8 @@ S﻿ound waves are longitudinal which means the direction of vibration is parall
 
 <https://www.youtube.com/watch?v=h90zbDXCW5o>
 
+![](mpd29p.gif)
+
 The sound wave contains high pressure areas where particles get closer called compressions and low pressure areas where particles are further away called rarefactions. 
 
 ![](compressions_rarefactions.gif)
@@ -45,3 +47,29 @@ The sound wave contains high pressure areas where particles get closer called co
 Regions of compressions make the crest of the wave while areas of rarefactions make the trough of the wave. The distance between every two crests or every two troughs is called the wavelength.
 
 ![](wavelength.png)
+
+A﻿mplitude is the distance that particles move from rest when a sound wave passes through them. The louder the sound the greater the amplitude. The quieter the sound, the shorter the amplitude.
+
+![](amplitude.png)
+
+T﻿he shorter the wavelength, the higher the pitch of the sound and the higher the frequency.
+
+T﻿he longer the wavelength, the lower the pitch of the sound and the lower the frequency.
+
+![](pitch.png)
+
+<!--StartFragment-->
+
+•Frequency is the number of vibrations per second
+
+•Frequency is measured in Hertz (Hz)
+
+•1 Hz = 1 Vibration per second = 1 back and forth movement of particles in one second.
+
+<!--EndFragment-->
+
+![](frequency.gif)
+
+H﻿umans can hear frequencies between 20Hz to 20,000Hz.
+
+S﻿ounds below 20Hz are called infrasounds
