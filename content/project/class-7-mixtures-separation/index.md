@@ -1,15 +1,7 @@
 ---
 title: "Class 7: Mixtures and their Separation"
 date: 2022-10-13T07:29:50.758Z
-summary: |-
-  This chapter deals with the following subtopics:
-
-  * Types of Mixtures
-  * Filtration
-  * Solutions & Solubility
-  * Evaporation & H﻿eating to dryness 
-  * Chromatography
-  * Distillation
+summary: ""
 draft: false
 featured: false
 tags:
