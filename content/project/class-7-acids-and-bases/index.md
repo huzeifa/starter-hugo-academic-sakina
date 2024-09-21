@@ -1,13 +1,7 @@
 ---
 title: "Class 7:  Acids and Bases"
 date: 2023-03-01T08:36:22.539Z
-summary: |-
-  T﻿his chapter deals with the following subtopics:
-
-  * I﻿ndicators
-  * N﻿eutralisation reactions
-  * N﻿eutralisation in daily life
-  * H﻿azard Symbols
+summary: ""
 draft: false
 featured: false
 tags:
