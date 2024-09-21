@@ -1,8 +1,12 @@
 ---
-title: Class 7 - Sound
+title: "Class 7: Sound"
 date: 2024-09-21T13:29:43.430Z
 draft: false
 featured: false
+tags:
+  - Physics
+categories:
+  - Physics
 image:
   filename: featured
   focal_point: Smart
