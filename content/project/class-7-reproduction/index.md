@@ -1,16 +1,7 @@
 ---
 title: "Class 7 Reproduction "
 date: 2023-01-09T07:33:04.369Z
-summary: |-
-  T﻿his chapter deals with the following subtopics:
-
-  * ﻿Fertilisation
-  * Adaptations of male and female gametes for fertilization
-  * Internal vs External fertilisation
-  * Internal vs External development
-  *  Reproduction in different animals
-  *  Human development and Birth
-  * Puberty
+summary: ""
 draft: false
 featured: false
 tags:
