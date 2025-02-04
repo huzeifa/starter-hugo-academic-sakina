@@ -3,6 +3,8 @@ title: "Class 8:  Food & Digestion"
 date: 2025-02-04T13:06:03.265Z
 draft: false
 featured: false
+tags:
+  - Biology
 categories:
   - Biology
 image:
