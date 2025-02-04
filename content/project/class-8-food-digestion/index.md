@@ -12,6 +12,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+
+
+
 Food contains nutrients needed for energy, growth and repair, and for health.
 
 ![](food.jpg)
@@ -65,3 +69,14 @@ Too much of carbohydrates and fats can cause obesity which leads to heart diseas
 ![](vitamin_uses_-deficiency_diseases.jpg)
 
 ![](mineral_uses_deficiency_diseases.png)
+
+![](sources_vitamins_minerals.jpg)
+
+* Kwashiorkor is a deficiency disease caused by lack of protein in ones diet.  A pot belly is the symptom of this disease as muscles that hold the abdomen get weak.
+
+![](kwashiorkor.jpg)
+
+* Lack of carbohydrates, fats and proteins cause starvation which causes anorexia (getting thinner and thinner)
+* Too much of carbohydrates and fats with no exercise causes obesity
+
+![](anorexia_obesity.png)
