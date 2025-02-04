@@ -8,14 +8,10 @@ tags:
 categories:
   - Biology
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
-
-
-![]()
-
 Food contains nutrients needed for energy, growth and repair, and for health.
 
 ![](food.jpg)
@@ -30,15 +26,10 @@ Nutrition labels give you the amount of energy in food (in kilo Joules and kilo 
 
 * Water – transports the nutrients in the body, acts as a lubricant, fills up cells so that they hold their shape and cools us down when we sweat.
 * Protein– help in making new cells for growth and repair. Found in meat, fish eggs, cheese, beans and milk.
-
 * Carbohydrates– for energy. Found in starchy foods like bread and potatoes and sugary foods containing glucose.
-
 * Lipids (fats and oils)– are a source of energy and provide insulation. Found in dairy products and oily foods. 
-
 * Vitamins and minerals– for overall body health and protection from disease. 
 * Fibre - is not a nutrient but needed as roughage – Fibre contains plant cell walls which cannot be digested but helps food move through the intestine to prevent constipation.
-
-
 
 ## Food Tests
 
@@ -58,9 +49,7 @@ Nutrition labels give you the amount of energy in food (in kilo Joules and kilo 
 
 ![](protein_test.jfif)
 
-
-
-#### Balanced Diet 
+#### Balanced Diet
 
 A balanced diet contains the right amount of a wide variety of foods that can provide all nutrients + fibre for growth and repair, health and energy. 
 
@@ -74,9 +63,5 @@ Too much of carbohydrates and fats can cause obesity which leads to heart diseas
 **Deficiency diseases** are caused by too little of a certain nutrient. The tables below show the vitamin and mineral deficiency diseases.
 
 ![](vitamin_uses_-deficiency_diseases.jpg)
-
-
-
-
 
 ![](mineral_uses_deficiency_diseases.png)
