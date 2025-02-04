@@ -1,5 +1,5 @@
 ---
-slides: ""
+slides: "example"
 url_pdf: ""
 title: "Class 7: Cells, Tissues, Organs and Organ Systems"
 summary: ""
