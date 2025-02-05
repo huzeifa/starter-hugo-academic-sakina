@@ -14,7 +14,7 @@ slides:
 
 - - -
 
-## Q1. WHAT MAKES SOMETHING LIVING?
+## Q. WHAT MAKES SOMETHING LIVING?
 
 {{% fragment %}}
 
@@ -24,17 +24,69 @@ In order for something to be considered living, it should carry out all the 7 li
 
 - - -
 
-## Q2. NAME A HUMAN ORGAN SYSTEM AND STATE ITS FUNCTION.
+## Q. STATE THE FUNCTION OF THE CIRCULATORY SYSTEM
 
 {{% fragment %}}
 
-Circulatory system uses blood to transport oxygen and nutrients to all body cells and remove carbon dioxide.  Respiratory (Gas exchange) System helps take in oxygen into our body and remove carbon dioxide. Digestive system helps break down large food molecules into smaller nutrients that can be absorbed into blood. U﻿rinary system helps to excrete waste and extra water from the blood. N﻿ervous system helps respond to stimuli by transmiting electrical impulses along nerves. S﻿keletal system helps provide movement, protection and support.
+Circulatory system uses blood to transport oxygen and nutrients to all body cells and remove carbon dioxide.  
 
  {{% /fragment %}}
 
 - - -
 
-## Q3. NAME A PLANT ORGAN SYSTEM AND STATE ITS FUNCTION.
+## Q. STATE THE FUNCTION OF THE RESPIRATORY (GAS EXCHANGE) SYSTEM
+
+{{% fragment %}}
+
+Respiratory (Gas exchange) System helps take in oxygen into our body and remove carbon dioxide. 
+
+ {{% /fragment %}}
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE DIGESTIVE SYSTEM
+
+{{% fragment %}}
+
+Digestive system helps break down large food molecules into smaller nutrients that can be absorbed into blood. 
+
+ {{% /fragment %}}
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE URINARY SYSTEM
+
+{{% fragment %}}
+
+ Urinary system helps to excrete waste and extra water from the blood. 
+
+ {{% /fragment %}}
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE NERVOUS SYSTEM
+
+{{% fragment %}}
+
+N﻿ervous system helps respond to stimuli by transmiting electrical impulses along nerves. 
+
+ {{% /fragment %}}
+
+- - -
+
+## Q2. STATE THE FUNCTION OF THE SKELETAL SYSTEM
+
+{{% fragment %}}
+
+ S﻿keletal system helps provide movement, protection and support.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## Q. NAME A PLANT ORGAN SYSTEM AND STATE ITS FUNCTION.
 
 {{% fragment %}}
 
@@ -44,43 +96,144 @@ T﻿he root system anchors the plant and absorbs water and minerals which get ca
 
  {{% /fragment %}}
 
+
+
 - - -
 
-## Q4. State the function of the brain, heart, lungs, liver, stomach, intestines, kidneys and bladder.
+## Q. STATE THE FUNCTION OF THE BRAIN.
 
 {{% fragment %}}
 
-**B﻿rain** - muscle control and coordination, sensory reception and integration, speech production, memory storage, and processing of thought and emotion.
-
-**H﻿eart** - pumps blood through the blood vessels by repeated, rhythmic contractions.
-
-**L﻿ungs** - provide oxygen from inhaled air to the bloodstream and remove carbon dioxide from the blood.
-
-**L﻿iver** - helps break down fats, produce urea, detoxify blood and maintain a proper level of glucose in the blood. 
-
-**S﻿tomach** - digestion of food through production of gastric juices (including hydrochloric acid) which break down, mix and churn the food into a thin liquid.
-
-**I﻿ntestines** - the small intestine absorbs most ingested food in the blood. The large intestine is responsible for absorption of water and excretion of solid waste material.
-
-**K﻿idneys** - maintain the body’s chemical balance by excreting waste products and excess fluid in the form of urine.
-
-**B﻿ladder** - Stores urine.
-
-
+B﻿rain - muscle control and coordination, sensory reception and integration, speech production, memory storage, and processing of thought and emotion.
 
  {{% /fragment %}}
 
 - - -
 
-## Q5. NAME A PLANT ORGAN AND STATE ITS FUNCTION.
+ 
+
+## Q. STATE THE FUNCTION OF THE HEART.
 
 {{% fragment %}}
 
-* **R﻿oots** - anchor the plant to the ground and absorb water and minerals from the ground.
-* **S﻿tem**- holds the plant upright and transports water and nutrients from roots to the leaves.
-* **L﻿eaves** - trap sunlight to make food for the plant by the process of photosynthesis.
-* **P﻿lant storage organs e.g. bulbs, storage roots and tubers** - store food and water for the plant to use when needed:
+H﻿eart - pumps blood through the blood vessels by repeated, rhythmic contractions.
 
  {{% /fragment %}}
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE LUNGS.
+
+{{% fragment %}}
+
+L﻿ungs - provide oxygen from inhaled air to the bloodstream and remove carbon dioxide from the blood.
+
+ {{% /fragment %}}
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE LIVER.
+
+{{% fragment %}}
+
+L﻿iver - helps break down fats by producing bile, produces urea, detoxifies blood and maintains a proper level of glucose in the blood. 
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE STOMACH
+
+{{% fragment %}}
+
+S﻿tomach - digestion of food through production of gastric juices (including hydrochloric acid) which break down, mix and churn the food into a thin liquid.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE SMALL AND LARGE INTESTINES
+
+{{% fragment %}}
+
+I﻿ntestines - the small intestine absorbs most ingested food in the blood. The large intestine is responsible for absorption of water and excretion of solid waste material.
+
+ {{% /fragment %}}
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE KIDNEYS
+
+{{% fragment %}}
+
+K﻿idneys - maintain the body’s chemical balance by excreting waste products and excess fluid in the form of urine.
+
+ {{% /fragment %}}
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE BLADDER.
+
+{{% fragment %}}
+
+Bladder- stretches to store urine and contracts to release urine.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## Q. STATE THE FUNCTION OF PLANT ROOTS.
+
+{{% fragment %}}
+
+R﻿oots - anchor the plant to the ground and absorb water and minerals from the ground.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## Q. STATE THE FUNCTION OF THE STEM OF A PLANT.
+
+{{% fragment %}}
+
+S﻿tem- holds the plant upright and transports water and nutrients from roots to the leaves.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## Q. STATE THE FUNCTION OF LEAVES.
+
+{{% fragment %}}
+
+L﻿eaves - trap sunlight to make food for the plant by the process of photosynthesis.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## Q. STATE THE FUNCTION OF PLANT BULBS, TUBERS & STORAGE ROOTS.
+
+{{% fragment %}}
+
+P﻿lant storage organs e.g. bulbs, storage roots and tubers - store food and water for the plant to use when needed.
+
+ {{% /fragment %}}
+
+
+
+
 
 - - -
