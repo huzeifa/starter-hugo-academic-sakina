@@ -14,7 +14,7 @@ slides:
 
 - - -
 
-## Q. WHAT MAKES SOMETHING LIVING?
+## WHAT MAKES SOMETHING LIVING?
 
 {{% fragment %}}
 
@@ -24,7 +24,7 @@ In order for something to be considered living, it should carry out all the 7 li
 
 - - -
 
-## Q. WHAT'S THE DIFFERENCE BETWEEN CELLS, TISSUES AND ORGANS?
+## WHAT'S THE DIFFERENCE BETWEEN CELLS, TISSUES AND ORGANS?
 
 {{% fragment %}}
 
@@ -34,7 +34,7 @@ O﻿rgans are made up of different tissues working together. Tissues are made up
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE CIRCULATORY SYSTEM
+## STATE THE FUNCTION OF THE CIRCULATORY SYSTEM
 
 {{% fragment %}}
 
@@ -44,7 +44,7 @@ Circulatory system uses blood to transport oxygen and nutrients to all body cell
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE RESPIRATORY (GAS EXCHANGE) SYSTEM
+## STATE THE FUNCTION OF THE RESPIRATORY (GAS EXCHANGE) SYSTEM
 
 {{% fragment %}}
 
@@ -54,7 +54,7 @@ Respiratory (Gas exchange) System helps take in oxygen into our body and remove 
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE DIGESTIVE SYSTEM
+## STATE THE FUNCTION OF THE DIGESTIVE SYSTEM
 
 {{% fragment %}}
 
@@ -64,7 +64,7 @@ Digestive system helps break down large food molecules into smaller nutrients th
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE URINARY SYSTEM
+## STATE THE FUNCTION OF THE URINARY SYSTEM
 
 {{% fragment %}}
 
@@ -74,7 +74,7 @@ Digestive system helps break down large food molecules into smaller nutrients th
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE NERVOUS SYSTEM
+## STATE THE FUNCTION OF THE NERVOUS SYSTEM
 
 {{% fragment %}}
 
@@ -84,7 +84,7 @@ N﻿ervous system helps respond to stimuli by transmiting electrical impulses al
 
 - - -
 
-## Q2. STATE THE FUNCTION OF THE SKELETAL SYSTEM
+##  STATE THE FUNCTION OF THE SKELETAL SYSTEM
 
 {{% fragment %}}
 
@@ -96,7 +96,7 @@ N﻿ervous system helps respond to stimuli by transmiting electrical impulses al
 
 - - -
 
-## Q. NAME A PLANT ORGAN SYSTEM AND STATE ITS FUNCTION.
+## NAME A PLANT ORGAN SYSTEM AND STATE ITS FUNCTION.
 
 {{% fragment %}}
 
@@ -110,7 +110,7 @@ T﻿he root system anchors the plant and absorbs water and minerals which get ca
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE BRAIN.
+##  STATE THE FUNCTION OF THE BRAIN.
 
 {{% fragment %}}
 
@@ -122,7 +122,7 @@ B﻿rain - muscle control and coordination, sensory reception and integration, s
 
  
 
-## Q. STATE THE FUNCTION OF THE HEART.
+## STATE THE FUNCTION OF THE HEART.
 
 {{% fragment %}}
 
@@ -132,7 +132,7 @@ H﻿eart - pumps blood through the blood vessels by repeated, rhythmic contracti
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE LUNGS.
+## STATE THE FUNCTION OF THE LUNGS.
 
 {{% fragment %}}
 
@@ -142,7 +142,7 @@ L﻿ungs - provide oxygen from inhaled air to the bloodstream and remove carbon 
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE LIVER.
+## STATE THE FUNCTION OF THE LIVER.
 
 {{% fragment %}}
 
@@ -154,7 +154,7 @@ L﻿iver - helps break down fats by producing bile, produces urea, detoxifies bl
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE STOMACH
+## STATE THE FUNCTION OF THE STOMACH.
 
 {{% fragment %}}
 
@@ -166,7 +166,7 @@ S﻿tomach - digestion of food through production of gastric juices (including h
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE SMALL AND LARGE INTESTINES
+## STATE THE FUNCTION OF THE SMALL AND LARGE INTESTINES
 
 {{% fragment %}}
 
@@ -176,7 +176,7 @@ I﻿ntestines - the small intestine absorbs most ingested food in the blood. The
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE KIDNEYS
+## STATE THE FUNCTION OF THE KIDNEYS.
 
 {{% fragment %}}
 
@@ -186,7 +186,7 @@ K﻿idneys - maintain the body’s chemical balance by excreting waste products 
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE BLADDER.
+## STATE THE FUNCTION OF THE BLADDER.
 
 {{% fragment %}}
 
@@ -198,7 +198,7 @@ Bladder- stretches to store urine and contracts to release urine.
 
 - - -
 
-## Q. STATE THE FUNCTION OF PLANT ROOTS.
+## STATE THE FUNCTION OF PLANT ROOTS.
 
 {{% fragment %}}
 
@@ -210,7 +210,7 @@ R﻿oots - anchor the plant to the ground and absorb water and minerals from th
 
 - - -
 
-## Q. STATE THE FUNCTION OF THE STEM OF A PLANT.
+## STATE THE FUNCTION OF THE STEM OF A PLANT.
 
 {{% fragment %}}
 
@@ -222,7 +222,7 @@ S﻿tem- holds the plant upright and transports water and nutrients from roots t
 
 - - -
 
-## Q. STATE THE FUNCTION OF LEAVES.
+## STATE THE FUNCTION OF LEAVES.
 
 {{% fragment %}}
 
@@ -234,7 +234,7 @@ L﻿eaves - trap sunlight to make food for the plant by the process of photosyn
 
 - - -
 
-## Q. STATE THE FUNCTION OF PLANT BULBS, TUBERS & STORAGE ROOTS.
+## STATE THE FUNCTION OF PLANT BULBS, TUBERS & STORAGE ROOTS.
 
 {{% fragment %}}
 
