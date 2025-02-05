@@ -24,6 +24,16 @@ In order for something to be considered living, it should carry out all the 7 li
 
 - - -
 
+## Q. WHAT'S THE DIFFERENCE BETWEEN CELLS, TISSUES AND ORGANS?
+
+{{% fragment %}}
+
+O﻿rgans are made up of different tissues working together. Tissues are made up of cells of the same type to carry out a function. Cells are the smallest unit of life that carry out all seven life processes.
+
+ {{% /fragment %}}
+
+- - -
+
 ## Q. STATE THE FUNCTION OF THE CIRCULATORY SYSTEM
 
 {{% fragment %}}
@@ -231,8 +241,6 @@ L﻿eaves - trap sunlight to make food for the plant by the process of photosyn
 P﻿lant storage organs e.g. bulbs, storage roots and tubers - store food and water for the plant to use when needed.
 
  {{% /fragment %}}
-
-
 
 
 
