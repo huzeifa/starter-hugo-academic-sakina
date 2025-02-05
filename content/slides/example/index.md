@@ -50,23 +50,36 @@ T﻿he root system anchors the plant and absorbs water and minerals which get ca
 
 {{% fragment %}}
 
-B﻿rain - muscle control and coordination, sensory reception and integration, speech production, memory storage, and processing of thought and emotion.
+**B﻿rain** - muscle control and coordination, sensory reception and integration, speech production, memory storage, and processing of thought and emotion.
 
-H﻿eart - pumps blood through the blood vessels by repeated, rhythmic contractions.
+**H﻿eart** - pumps blood through the blood vessels by repeated, rhythmic contractions.
 
-L﻿ungs - provide oxygen from inhaled air to the bloodstream and remove carbon dioxide from the blood.
+**L﻿ungs** - provide oxygen from inhaled air to the bloodstream and remove carbon dioxide from the blood.
 
-L﻿iver - helps break down fats, produce urea, detoxify blood and maintain a proper level of glucose in the blood. 
+**L﻿iver** - helps break down fats, produce urea, detoxify blood and maintain a proper level of glucose in the blood. 
 
-S﻿tomach - digestion of food through production of gastric juices (including hydrochloric acid) which break down, mix and churn the food into a thin liquid.
+**S﻿tomach** - digestion of food through production of gastric juices (including hydrochloric acid) which break down, mix and churn the food into a thin liquid.
 
-I﻿ntestines - the small intestine absorbs most ingested food in the blood. The large intestine is responsible for absorption of water and excretion of solid waste material.
+**I﻿ntestines** - the small intestine absorbs most ingested food in the blood. The large intestine is responsible for absorption of water and excretion of solid waste material.
 
-K﻿idneys - maintain the body’s chemical balance by excreting waste products and excess fluid in the form of urine.
+**K﻿idneys** - maintain the body’s chemical balance by excreting waste products and excess fluid in the form of urine.
 
-B﻿ladder - Stores urine.
+**B﻿ladder** - Stores urine.
 
 
+
+ {{% /fragment %}}
+
+- - -
+
+## Q5. NAME A PLANT ORGAN AND STATE ITS FUNCTION.
+
+{{% fragment %}}
+
+* **R﻿oots** - anchor the plant to the ground and absorb water and minerals from the ground.
+* **S﻿tem**- holds the plant upright and transports water and nutrients from roots to the leaves.
+* **L﻿eaves** - trap sunlight to make food for the plant by the process of photosynthesis.
+* **P﻿lant storage organs e.g. bulbs, storage roots and tubers** - store food and water for the plant to use when needed:
 
  {{% /fragment %}}
 
