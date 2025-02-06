@@ -34,7 +34,7 @@ O﻿rgans are made up of different tissues working together. Tissues are made up
 
 - - -
 
-## STATE THE FUNCTION OF THE CIRCULATORY SYSTEM
+## WHAT'S THE FUNCTION OF THE CIRCULATORY SYSTEM?
 
 {{% fragment %}}
 
@@ -44,7 +44,7 @@ Circulatory system uses blood to transport oxygen and nutrients to all body cell
 
 - - -
 
-## STATE THE FUNCTION OF THE RESPIRATORY (GAS EXCHANGE) SYSTEM
+## WHAT'S THE FUNCTION OF THE RESPIRATORY (GAS EXCHANGE) SYSTEM?
 
 {{% fragment %}}
 
@@ -54,7 +54,7 @@ Respiratory (Gas exchange) System helps take in oxygen into our body and remove 
 
 - - -
 
-## STATE THE FUNCTION OF THE DIGESTIVE SYSTEM
+## WHAT'S THE FUNCTION OF THE DIGESTIVE SYSTEM?
 
 {{% fragment %}}
 
@@ -64,7 +64,7 @@ Digestive system helps break down large food molecules into smaller nutrients th
 
 - - -
 
-## STATE THE FUNCTION OF THE URINARY SYSTEM
+## WHAT'S THE FUNCTION OF THE URINARY SYSTEM?
 
 {{% fragment %}}
 
@@ -74,7 +74,7 @@ Digestive system helps break down large food molecules into smaller nutrients th
 
 - - -
 
-## STATE THE FUNCTION OF THE NERVOUS SYSTEM
+## WHAT'S THE FUNCTION OF THE NERVOUS SYSTEM?
 
 {{% fragment %}}
 
@@ -84,15 +84,13 @@ N﻿ervous system helps respond to stimuli by transmiting electrical impulses al
 
 - - -
 
-##  STATE THE FUNCTION OF THE SKELETAL SYSTEM
+## WHAT'S THE FUNCTION OF THE SKELETAL SYSTEM?
 
 {{% fragment %}}
 
  S﻿keletal system helps provide movement, protection and support.
 
  {{% /fragment %}}
-
-
 
 - - -
 
@@ -106,11 +104,9 @@ T﻿he root system anchors the plant and absorbs water and minerals which get ca
 
  {{% /fragment %}}
 
-
-
 - - -
 
-##  STATE THE FUNCTION OF THE BRAIN.
+## WHAT'S THE FUNCTION OF THE BRAIN?
 
 {{% fragment %}}
 
@@ -120,9 +116,7 @@ B﻿rain - muscle control and coordination, sensory reception and integration, s
 
 - - -
 
- 
-
-## STATE THE FUNCTION OF THE HEART.
+## WHAT'S THE FUNCTION OF THE HEART?
 
 {{% fragment %}}
 
@@ -132,7 +126,7 @@ H﻿eart - pumps blood through the blood vessels by repeated, rhythmic contracti
 
 - - -
 
-## STATE THE FUNCTION OF THE LUNGS.
+## WHAT'S THE FUNCTION OF THE LUNGS?
 
 {{% fragment %}}
 
@@ -142,7 +136,7 @@ L﻿ungs - provide oxygen from inhaled air to the bloodstream and remove carbon 
 
 - - -
 
-## STATE THE FUNCTION OF THE LIVER.
+## WHAT'S THE FUNCTION OF THE LIVER?
 
 {{% fragment %}}
 
@@ -150,11 +144,9 @@ L﻿iver - helps break down fats by producing bile, produces urea, detoxifies bl
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## STATE THE FUNCTION OF THE STOMACH.
+## WHAT'S THE FUNCTION OF THE STOMACH?
 
 {{% fragment %}}
 
@@ -162,11 +154,9 @@ S﻿tomach - digestion of food through production of gastric juices (including h
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## STATE THE FUNCTION OF THE SMALL AND LARGE INTESTINES
+## WHAT'S THE FUNCTION OF THE SMALL AND LARGE INTESTINES?
 
 {{% fragment %}}
 
@@ -176,7 +166,7 @@ I﻿ntestines - the small intestine absorbs most ingested food in the blood. The
 
 - - -
 
-## STATE THE FUNCTION OF THE KIDNEYS.
+## WHAT'S THE FUNCTION OF THE KIDNEYS?
 
 {{% fragment %}}
 
@@ -186,7 +176,7 @@ K﻿idneys - maintain the body’s chemical balance by excreting waste products 
 
 - - -
 
-## STATE THE FUNCTION OF THE BLADDER.
+## WHAT'S THE FUNCTION OF THE BLADDER?
 
 {{% fragment %}}
 
@@ -194,11 +184,9 @@ Bladder- stretches to store urine and contracts to release urine.
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## STATE THE FUNCTION OF PLANT ROOTS.
+## WHAT'S THE FUNCTION OF PLANT ROOTS?
 
 {{% fragment %}}
 
@@ -206,11 +194,9 @@ R﻿oots - anchor the plant to the ground and absorb water and minerals from th
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## STATE THE FUNCTION OF THE STEM OF A PLANT.
+## WHAT'S THE FUNCTION OF THE STEM OF A PLANT?
 
 {{% fragment %}}
 
@@ -218,11 +204,9 @@ S﻿tem- holds the plant upright and transports water and nutrients from roots t
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## STATE THE FUNCTION OF LEAVES.
+## WHAT'S THE FUNCTION OF LEAVES?
 
 {{% fragment %}}
 
@@ -230,18 +214,14 @@ L﻿eaves - trap sunlight to make food for the plant by the process of photosyn
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## STATE THE FUNCTION OF PLANT BULBS, TUBERS & STORAGE ROOTS.
+## WHAT'S THE FUNCTION OF PLANT BULBS, TUBERS & STORAGE ROOTS?
 
 {{% fragment %}}
 
 P﻿lant storage organs e.g. bulbs, storage roots and tubers - store food and water for the plant to use when needed.
 
  {{% /fragment %}}
-
-
 
 - - -
