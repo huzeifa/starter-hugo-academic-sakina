@@ -314,27 +314,89 @@ Xylem tissue transports water up the plant from the roots
 
 
 
-
-
 - - -
 
+## HOW ARE RED BLOOD CELLS ADAPTED FOR THEIR FUNCTION?
 
+{{% fragment %}}
 
+* They have a biconcave shape which provides a large surface area for oxygen to pass into them.
+* They contain hemoglobin which joins with oxygen.
+* They have no nucleus so there is maximum space for oxygen to be carried
 
-
-
-
-- - -
-
-
-
-
+ {{% /fragment %}}
 
 
 
 - - -
 
+## HOW ARE NERVE CELLS ADAPTED FOR THEIR FUNCTION? 
 
+{{% fragment %}}
+
+* T﻿hey are long and connected to each other.
+* T﻿hey can carry electrical signals.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## HOW IS THE EGG CELL (OVUM) ADAPTED FOR ITS FUNCTION?  
+
+{{% fragment %}}
+
+* I﻿t is large as i﻿t carries a food store in the form of yolk in its cytoplasm for the embryo.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## HOW IS THE SPERM CELL ADAPTED FOR ITS FUNCTION?  
+
+{{% fragment %}}
+
+* I﻿t has a long tail for swimming towards the egg.
+* I﻿t has a head that allows it to enter the egg.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## HOW IS THE CILIATED EPITHELIAL CELL ADAPTED FOR ITS FUNCTION?  
+
+{{% fragment %}}
+
+* I﻿t contains hair-like structures called cilia which waft away the germs and dust particles away from lungs into the mouth for us to swallow or spit out.
+
+ {{% /fragment %}}
+
+- - -
+
+## HOW IS THE ROOT HAIR CELL ADAPTED FOR ITS FUNCTION?  
+
+{{% fragment %}}
+
+* I﻿t is long and thin so it provides a large surface area for maximum absorption of water and minerals. 
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## HOW IS THE PALISADE CELL ADAPTED FOR ITS FUNCTION?  
+
+{{% fragment %}}
+
+* I﻿t has lots of chloroplasts so that it can carry out maximum photosynthesis.
+
+ {{% /fragment %}}
 
 
 
