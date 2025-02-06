@@ -225,3 +225,121 @@ P﻿lant storage organs e.g. bulbs, storage roots and tubers - store food and w
  {{% /fragment %}}
 
 - - -
+
+## WHICH TISSUES ARE FOUND IN THE HEART?
+
+{{% fragment %}}
+
+1. Muscle tissue - contains cardiac muscle cells.
+
+2﻿. Nerve tissue - made up of nerve cells 
+
+3﻿. Fat tissue -  made up of fat cells.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## DESCRIBE THREE TYPES OF MUSCLE TISSUE
+
+{{% fragment %}}
+
+1. Cardiac muscle tissue - found in the heart
+
+2﻿. Smooth muscle tissue - found in walls of internal organs.
+
+3﻿. Skeletal muscle tissue - attached to bones
+
+ {{% /fragment %}}
+
+- - -
+
+## W﻿HAT IS THE PURPOSE OF FAT TISSUE?
+
+{{% fragment %}}
+
+The layer of fat tissue under the skin insulates the body to keep it warm. Pads of fat act as shock absorbers and support and cushion vital organs. The stored fat also provide energy when required.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## W﻿HAT IS THE PURPOSE OF EPITHELIAL TISSUE?
+
+{{% fragment %}}
+
+It forms the covering of all body surfaces.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## W﻿HAT IS THE FUNCTION OF ROOT HAIR TISSUE?
+
+{{% fragment %}}
+
+Root hair tissue absorbs water and minerals from the soil.
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## W﻿HAT IS THE FUNCTION OF PHLOEM? 
+
+{{% fragment %}}
+
+Phloem transports nutrients and food up and down the plant and into storage organs
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## W﻿HAT IS THE FUNCTION OF XYLEM?
+
+{{% fragment %}}
+
+Xylem tissue transports water up the plant from the roots
+
+ {{% /fragment %}}
+
+
+
+
+
+- - -
+
+
+
+
+
+
+
+- - -
+
+
+
+
+
+
+
+- - -
+
+
+
+
+
+
+
+
+
+- - -
