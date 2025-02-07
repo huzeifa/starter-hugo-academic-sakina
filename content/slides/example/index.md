@@ -238,8 +238,6 @@ P﻿lant storage organs e.g. bulbs, storage roots and tubers - store food and w
 
  {{% /fragment %}}
 
-
-
 - - -
 
 ## DESCRIBE THREE TYPES OF MUSCLE TISSUE
@@ -264,8 +262,6 @@ The layer of fat tissue under the skin insulates the body to keep it warm. Pad
 
  {{% /fragment %}}
 
-
-
 - - -
 
 ## W﻿HAT IS THE PURPOSE OF EPITHELIAL TISSUE?
@@ -275,8 +271,6 @@ The layer of fat tissue under the skin insulates the body to keep it warm. Pad
 It forms the covering of all body surfaces.
 
  {{% /fragment %}}
-
-
 
 - - -
 
@@ -288,19 +282,15 @@ Root hair tissue absorbs water and minerals from the soil.
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## W﻿HAT IS THE FUNCTION OF PHLOEM? 
+## W﻿HAT IS THE FUNCTION OF PHLOEM?
 
 {{% fragment %}}
 
 Phloem transports nutrients and food up and down the plant and into storage organs
 
  {{% /fragment %}}
-
-
 
 - - -
 
@@ -311,8 +301,6 @@ Phloem transports nutrients and food up and down the plant and into storage org
 Xylem tissue transports water up the plant from the roots
 
  {{% /fragment %}}
-
-
 
 - - -
 
@@ -326,11 +314,9 @@ Xylem tissue transports water up the plant from the roots
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## HOW ARE NERVE CELLS ADAPTED FOR THEIR FUNCTION? 
+## HOW ARE NERVE CELLS ADAPTED FOR THEIR FUNCTION?
 
 {{% fragment %}}
 
@@ -339,11 +325,9 @@ Xylem tissue transports water up the plant from the roots
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## HOW IS THE EGG CELL (OVUM) ADAPTED FOR ITS FUNCTION?  
+## HOW IS THE EGG CELL (OVUM) ADAPTED FOR ITS FUNCTION?
 
 {{% fragment %}}
 
@@ -351,11 +335,9 @@ Xylem tissue transports water up the plant from the roots
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## HOW IS THE SPERM CELL ADAPTED FOR ITS FUNCTION?  
+## HOW IS THE SPERM CELL ADAPTED FOR ITS FUNCTION?
 
 {{% fragment %}}
 
@@ -364,11 +346,9 @@ Xylem tissue transports water up the plant from the roots
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## HOW IS THE CILIATED EPITHELIAL CELL ADAPTED FOR ITS FUNCTION?  
+## HOW IS THE CILIATED EPITHELIAL CELL ADAPTED FOR ITS FUNCTION?
 
 {{% fragment %}}
 
@@ -378,7 +358,7 @@ Xylem tissue transports water up the plant from the roots
 
 - - -
 
-## HOW IS THE ROOT HAIR CELL ADAPTED FOR ITS FUNCTION?  
+## HOW IS THE ROOT HAIR CELL ADAPTED FOR ITS FUNCTION?
 
 {{% fragment %}}
 
@@ -386,11 +366,9 @@ Xylem tissue transports water up the plant from the roots
 
  {{% /fragment %}}
 
-
-
 - - -
 
-## HOW IS THE PALISADE CELL ADAPTED FOR ITS FUNCTION?  
+## HOW IS THE PALISADE CELL ADAPTED FOR ITS FUNCTION?
 
 {{% fragment %}}
 
@@ -398,10 +376,106 @@ Xylem tissue transports water up the plant from the roots
 
  {{% /fragment %}}
 
+- - -
+
+## WHICH CELL ORGANELLES ARE FOUND IN PLANT CELLS BUT NOT IN ANIMAL CELLS?
+
+{{% fragment %}}
+
+C﻿hloroplasts, Cell wall, Large vacuole.
+
+ {{% /fragment %}}
 
 
 
+- - -
+
+## WHICH CELL ORGANELLES ARE FOUND IN PLANT CELLS AND ALSO IN ANIMAL CELLS?
+
+{{% fragment %}}
+
+N﻿ucleus, Cell membrane, Cytoplasm, Mitochondria.
+
+ {{% /fragment %}}
 
 
+
+- - -
+
+## WHICH CELL ORGANELLE CONTROLS WHAT GOES IN AND OUT OF THE CELL?
+
+{{% fragment %}}
+
+Cell membrane
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## WHICH CELL ORGANELLE CONTROLS THE CELL?
+
+{{% fragment %}}
+
+Nucleus
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## WHICH CELL ORGANELLE IS THE SITE OF PHOTOSYNTHESIS?
+
+{{% fragment %}}
+
+C﻿hloroplast
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## WHICH CELL ORGANELLE IS THE SITE OF RESPIRATION?
+
+{{% fragment %}}
+
+M﻿itochondria
+
+ {{% /fragment %}}
+
+
+
+- - -
+
+## WHICH PLANT CELL ORGANELLE STORES CELL SAP? 
+
+{{% fragment %}}
+
+L﻿arge Vacuole
+
+ {{% /fragment %}}
+
+- - -
+
+## WHICH CELL ORGANELLES ARE INVOLVED IN PROTEIN SYNTHESIS, TRANSPORT & PACKAGING?
+
+{{% fragment %}}
+
+R﻿ibosomes, Endoplasmic Reticulum, Golgi apparatus
+
+ {{% /fragment %}}
+
+- - -
+
+## WHAT IS THE NAME OF THE JELLY LIKE LIQUID SUBSTANCE IN A CELL THAT HOLDS ALL CELL ORGANELLES AND IS WHERE CHEMICAL REACTIONS TAKE PLACE?
+
+{{% fragment %}}
+
+Cytoplasm
+
+ {{% /fragment %}}
 
 - - -
