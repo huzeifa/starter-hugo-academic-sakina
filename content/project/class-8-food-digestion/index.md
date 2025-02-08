@@ -12,10 +12,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-
-
 Food contains nutrients needed for energy, growth and repair, and for health.
 
 ![](food.jpg)
@@ -80,3 +76,25 @@ Too much of carbohydrates and fats can cause obesity which leads to heart diseas
 * Too much of carbohydrates and fats with no exercise causes obesity
 
 ![](anorexia_obesity.png)
+
+# T﻿he Digestive System
+
+![](digestive_system.jpg)
+
+![](digestive_system_parts.jpg)
+
+### E﻿nzymes
+
+Enzymes are biological catalysts that speed up digestion and don’t get used up in the process and remain unchanged.
+
+![](enzymes_sources.jpg)
+
+![](enzyme.png)
+
+![](enzymes_products.png)
+
+![](enzymes_function.jpg)
+
+![](lock_key_model.png)
+
+![](denature.png)
