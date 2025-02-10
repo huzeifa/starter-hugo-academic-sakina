@@ -98,3 +98,25 @@ Enzymes are biological catalysts that speed up digestion and don’t get used up
 ![](lock_key_model.png)
 
 ![](denature.png)
+
+### G﻿UT BACTERIA
+
+We have a mix of good and bad bacteria in our gut. Helicobacter Pylori causes ulcers, while Lactobacilli may ward off stress and anxiety.
+Your diet can affect which bacteria grow and reproduce more than another. Taking **probiotics** containing good bacteria such as yoghurt can help keep your gut healthy. **Prebiotics** are fibers which our body cannot digest but good bacteria feed on. Taken together, prebiotics and probiotics can turn into a healthier, happier gut.
+
+![](gut_bacteria.jpg)
+
+![](good_bad_bacteria.jpg)
+
+INFLUENCE OF GUT BACTERIA ON OUR BRAIN AND BODY
+Gut bacteria influence our overall body health. Imbalances in the amounts of various bacteria causes:
+
+* Depression & anxiety
+* Irritable bowel syndrome – symptoms:  cramping, abdominal pain, bloating, gas, and diarrhea or constipation, or both.
+* Colon cancer
+* Changes in brain function
+* Obesity & Diabetes
+
+![](prebiotics.png)
+
+![](probiotics.png)
