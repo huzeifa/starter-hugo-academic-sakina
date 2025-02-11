@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Food contains nutrients needed for energy, growth and repair, and for health.
+Food contains nutrients (raw materials) needed for energy, growth and repair, and for health.  The nutrients are: carbohydrates, fats, proteins, vitamins and minerals.
 
 ![](food.jpg)
 
@@ -137,9 +137,7 @@ After a meal, there are more digested nutrient molecules inside small intestine 
 **Adaptations of small intestine for absorption** - The wall of the small intestine is folded with many villi that provide a large surface area for maximum absorption of nutrients into blood.
 The wall of each villus is only one cell thick so nutrients do not have to diffuse far to get into the blood. This speeds up the absorption.
 
-
-
-#### Visking tubing model of small intestine: 
+#### Visking tubing model of small intestine:
 
 ![](visking_tubing_model.png)
 
