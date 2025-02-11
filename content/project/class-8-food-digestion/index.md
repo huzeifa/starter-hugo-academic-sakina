@@ -120,3 +120,31 @@ Gut bacteria influence our overall body health. Imbalances in the amounts of var
 ![](prebiotics.png)
 
 ![](probiotics.png)
+
+### A﻿BSORPTION
+
+After enzymes break up the large insoluble molecules into smaller soluble ones, the small molecules can be absorbed by the small intestine.
+
+![](small_intestine.jpg)
+
+D﻿igestion ends in the small intestine and the products of digestion (glucose, amino acids, glycerol and fatty acids) that are soluble molecules get absorbed into the blood inside the villi of the small intestine.
+
+![](villi.jpg)
+
+**Diffusion in small intestine** - Particles tend to evenly spread out by diffusion from a high to low concentration. 
+After a meal, there are more digested nutrient molecules inside small intestine than in the blood. This causes the overall movement of the nutrient molecules into the blood by diffusion to achieve a balance of these nutrients in small intestine and in the blood. 
+
+**Adaptations of small intestine for absorption** - The wall of the small intestine is folded with many villi that provide a large surface area for maximum absorption of nutrients into blood.
+The wall of each villus is only one cell thick so nutrients do not have to diffuse far to get into the blood. This speeds up the absorption.
+
+
+
+#### Visking tubing model of small intestine: 
+
+![](visking_tubing_model.png)
+
+Inside of tubing represents inside of small intestine. 
+
+Outside of tubing represents the blood.
+
+![](visking_tubing_results.png)
