@@ -3,6 +3,10 @@ title: "Class 8: Combustion"
 date: 2025-02-13T19:54:23.588Z
 draft: false
 featured: false
+tags:
+  - Chemistry
+categories:
+  - Chemistry
 image:
   filename: featured
   focal_point: Smart
