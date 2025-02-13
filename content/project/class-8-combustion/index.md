@@ -31,7 +31,7 @@ Several car manufacturers are developing hydrogen fueled cars. These cause less 
 Most hydrogen-powered vehicles use fuel cells, in which energy is released from hydrogen in a carefully controlled manner and reacts with oxygen.
 
 We can model the reaction in a fuel cell using a word equation:
-hydrogen + oxygen → water
+**hydrogen + oxygen → water**
 
 In the hydrogen fuel cell in the bus below, hydrogen fuel releases energy that is transferred to electricity to make the bus move. 
 
@@ -47,7 +47,6 @@ hydrogen reacted with oxygen in the air. The accident killed 35 of the 97 people
 
 A fuel is a chemical or nuclear substance from which stored energy can be transferred usefully (usually in the form of heat and light.)
 Examples of fuels:
-
 
 * Firewood
 * Hydrogen
