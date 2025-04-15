@@ -27,10 +27,6 @@ Different organs work together in **organ systems**.
 
 Many organ systems make up a living thing – an **organism**. 
 
-![](levels_of_organisation.png)
-
-![](loo-in-plants.jpg)
-
 # <a id="LifeProcesses"></a> Life Processes
 
 All organisms including cells carry out the following life processes.
