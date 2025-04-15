@@ -16,12 +16,6 @@ Matter mainly exists as a mixture.
 
 A mixture is made up of two or more components physically intermixed. 
 
-# <a id="TypesofMixtures"></a> Types of Mixtures
-
-![](types-of-mixtures.png)
-
-<!--StartFragment-->
-
 75% of the Earth is water in which many different substances can dissolve making it become a solution
 
 Water in rivers and streams may also carry solids such as sand, gravel or mud making it a colloid and suspension.
@@ -54,8 +48,6 @@ The substance from the mixture that is filtered out is called the **filtrate**. 
 
 A﻿pparatus:
 
-![](filtration.png)
-
 Method:
 
 A. Fold a circular filter paper in half.
@@ -83,8 +75,6 @@ G. Pour the sand and water mixture into the filter paper.
 •A solute is the soluble substance
 
 •A solvent is the liquid which is dissolving the solute.
-
-![](solutions.jpg)
 
 Mass of the solution is the same as the mass of solute plus the mass of solvent at the start. No extra mass is gained or lost. This is known as the law of conservation of mass,
 
@@ -134,8 +124,6 @@ Heating a solution until all the solvent has evaporated is known as heating to d
 
 <!--EndFragment-->
 
-![](heating-to-dryness.png)
-
 Method:
 
 A. Use a medium flame to heat the solution. 
@@ -156,17 +144,9 @@ G. Always set the Bunsen burner to a safety flame when not in use and just befor
 
 ## E﻿vaporation vs Boiling
 
-![](evaporation-boiling.png)
-
 ![](evaporation-vs-boiling.png)
 
-H﻿ow to obtain salt from:
 
-1﻿.  Rock Salt
-
-![](salt-from-rock-salt.jpg)
-
-2﻿. Sea water
 
 # ﻿ <a id="Chromatography"></a> Chromatography
 
@@ -176,11 +156,7 @@ Chromatography separates and helps identify different substances found in a mixt
 
 •Chromatography is one of the techniques used in water analysis.
 
-![](types-of-chromatography.jpg)
-
 ## Paper Chromatography
-
-![](paper-chromatography.png)
 
 Method:
 
@@ -204,19 +180,9 @@ Uses of paper chromatography:
 
 •Forensic analysis of crime scenes
 
-![](chromatograms.jpg)
-
 # <a id="Distillation"></a> Distillation
 
 Drinking water may be made from sea water in a process called desalination. Distillation is a process during desalination in which the sea water is heated so that the water evaporates to form steam leaving behind the salt solutes. The steam is collected and cooled so that it condenses back into pure liquid water containing no solutes.
-
-![](desalination.png)
-
-Solar still:
-
-![The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.](solar-still.gif "The solar powered still is a cheap way to provide clean water in poor areas of the world. They can also be used to provide emergency clean water in remote places including the sea.")
-
-![Simple distillation done in the lab ](lab-distillation.jpg "Simple distillation as done in a lab")
 
 Factors affecting simple distillation:
 
