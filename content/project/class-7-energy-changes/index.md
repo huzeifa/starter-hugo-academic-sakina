@@ -19,8 +19,6 @@ Energy in foods is measured in kiloJoules. It is also measured in kilo Calories.
 1 kCal = 4 kJ
 Different people have different energy requirements per day:
 
-![](energy-requirements-for-people.jpg)
-
 # <a id="EnergyTransfers&Stores"></a> Energy Transfers & Stores
 
 Energy can be stored as:
@@ -58,10 +56,6 @@ Energy cannot be created or destroyed but can only be transferred from one form 
 <!--EndFragment-->
 
 # <a id="Energyflows"></a>Energy flows
-
-![](energy-flow.png)
-
-![](energy-flow-2.png)
 
 <!--StartFragment-->
 
@@ -119,8 +113,6 @@ Oil is formed from smaller organisms, like zooplankton and algae. Intense amoun
 Natural Gas undergoes the same process as oil; however the process is longer and subject to higher amounts of heat and pressure, causing further decomposition.
 **Fossil fuels are non renewable sources of energy** because they cannot be replaced easily once they are used up. It takes millions of years to form them.
 
-![](fossil_fuel_formation.png)
-
 <!--StartFragment-->
 
 **Renewable Fuels** – can easily be made and replaced once they are used up. The rate at which they are used is less than or equal to the rate at which they are made again.
@@ -129,13 +121,7 @@ Natural Gas undergoes the same process as oil; however the process is longer 
 
 •BIOFUELS – made from plant and animal waste. 
 
-![](picture1.jpg)
-
-![](picture3.jpg)
-
 •HYDROGEN GAS – can be made from water. Hydrogen combining with oxygen in fuel cells can produce electricity. Water is the only product which makes hydrogen a clean energy resource.
-
-![](picture2.gif)
 
 <!--StartFragment-->
 
@@ -147,41 +133,27 @@ Natural Gas undergoes the same process as oil; however the process is longer 
 
 a) Heat water – solar panels mounted on roofs are tubes full of water which heats up and can be used to heat the building on provide hot water.
 
-![](picture5.png)
-
 b) Produce electricity –
 
 i)solar cells can convert sunlight energy to electricity directly.
 
-![](picture4.jpg)
-
 ii)A solar power station focuses sunlight using mirrors onto a tower. The concentrated heat from the sun onto tower heats up water, turns it into steam which can drive turbines to generate electricity.
-
-![](picture6.jpg)
 
 <!--StartFragment-->
 
 •WIND TURBINES – use the wind to turn turbines to generate electricity.
 
-![](picture7.jpg)
-
 <!--StartFragment-->
 
 •HYDROELECTRIC POWER – use flowing water to turn turbines and generate electricity. Moving water in waves and tides can also be used.
-
-![](picture8.jpg)
 
 <!--StartFragment-->
 
 •GEOTHERMAL POWER – use the heat from rocks underground to heat water, turn it to steam to drive turbines and generate electricity.
 
-![](picture9.jpg)
-
 <!--StartFragment-->
 
 •NUCLEAR ENERGY – uses the energy stored in particles to release heat and light. The heat released can be used to heat water, turn it to steam and drive turbines.
-
-![](picture10.png)
 
 <!--StartFragment-->
 
@@ -209,15 +181,7 @@ E﻿nergy resources that do not depend on the sun:
 
 2﻿. Geothermal energy.
 
-<!--StartFragment-->
 
-How is electricity generated?
-
-<!--EndFragment-->
-
-![](picture11.jpg)
-
-![](picture12.png)
 
 U﻿SING RESOURCES
 
@@ -225,23 +189,15 @@ U﻿SING RESOURCES
 
 •Renewable energy resources (solar, wind, hydroelectric, geothermal, nuclear, waves and tidal energy) can be regenerated and will never run out but non-renewable energy resources (fossil fuels) are limited and can run out. The rate at which non renewable resources are used up is more than the rate at which they are being formed.
 
-<!--EndFragment--><!--StartFragment-->
 
-<!--EndFragment-->
-
-![](untitled.jpg)
 
 •Burning fossil fuels for energy releases carbon dioxide which is a gas that traps the sun’s heat making the Earth warmer (global warming) leading to climate change.
-
-![](picture13.jpg)
 
 # <a id="Energyefficiency"></a>Energy efficiency
 
 •Not all the energy transferred by a machine is useful. Some of it is wasted.
 
 •The amount of useful energy transferred compared to the total input energy is called the efficiency of a machine.
-
-![](picture14.png)
 
 <!--StartFragment-->
 
@@ -250,5 +206,3 @@ U﻿SING RESOURCES
 •Since an efficient machine wastes less energy and produces more useful energy; it will require less fossil fuel to produce the electricity to run it and so your energy bills will be cheaper.
 
 <!--EndFragment-->
-
-![](picture15.jpg)
