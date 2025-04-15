@@ -23,6 +23,8 @@ Acids and Bases can cancel each other out to become neutral. Neutral substances 
 
 The pH scale measured using Universal Indicator shows the strength of acids and alkalis from 1 to 14.
 
+![](https://c8.alamy.com/comp/G156N4/diagram-of-the-ph-scale-with-examples-of-acidic-neutral-and-alkaline-G156N4.jpg)
+
 <!--EndFragment-->
 
 P﻿ure water is neutral.
