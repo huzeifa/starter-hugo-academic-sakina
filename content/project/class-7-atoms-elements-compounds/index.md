@@ -18,8 +18,6 @@ Elements are the building blocks of all matter. The Periodic Table of Elements s
 
 <!--EndFragment-->
 
-![](periodic-table.jpg)
-
 ## ATOM
 
 <!--StartFragment-->
@@ -32,29 +30,21 @@ Elements are the building blocks of all matter. The Periodic Table of Elements s
 
 <!--EndFragment-->
 
-![](atom1.png)
-
 <!--StartFragment-->
 
 ……but it is actually made up of electrons whizzing around a central nucleus containing protons and neutrons.
 
 <!--EndFragment-->
 
-![](atom.png)
-
 <!--StartFragment-->
 
-## ELEMENTS 
+## ELEMENTS
 
 – are made up of a certain type of atom. A pure substance contains only one type of atom… (an element is considered to be  a pure substance)
 
-![](elements.png)
-
-![](periodictable.png)
-
 <!--StartFragment-->
 
-## COMPOUND 
+## COMPOUND
 
 – made up of different elements (different kind of atoms joined together)\
  To make a compound, the atoms of the different elements must chemically join together. If they don’t join, then it is a mixture of elements. \
@@ -62,27 +52,19 @@ Other compounds include:
 
 <!--EndFragment-->
 
-![](compounds.png)
-
 <!--StartFragment-->
 
-### Molecule – 
+### Molecule –
 
 a general word to describe many atoms joined together
 
-<!--EndFragment-->
 
-![](molecules.png)
 
-<!--StartFragment-->
-
-### MIXTURE 
+### MIXTURE
 
 – having many molecules of compounds and/or molecules of elements mixed together.
 
 <!--EndFragment-->
-
-![](mixture.png)
 
 <!--StartFragment-->
 
@@ -94,31 +76,28 @@ The air we breathe is not pure. It is made up of a mixture of gases including ni
 
 <!--EndFragment-->
 
-I﻿n summary:
 
-![](summary.png)
-
-<!--StartFragment-->
-
-<!--StartFragment-->
-
-<!--EndFragment-->
 
 ## Metals vs Non metals
 
-<!--EndFragment-->
+M﻿etals are found on the left hand side of the periodic table while non-metals are found on the right hand side of the periodic table. 
 
-![](metals-vs-non-metals.jpg)
+M﻿etals are: 
 
-![](metals.png)
+* shiny 
+* sonorous,
+* c﻿onductors of heat and electricity
+* malleable and ductile
+* mainly solids at room temperature because they have high melting and boiling points
 
-<!--StartFragment-->
+N﻿on- metals are:
 
-<!--EndFragment-->
+* d﻿ull
+* b﻿rittle
+* i﻿nsulators of heat and electricity
+* are mainly gases and liquids at room temperature because they have low melting and boiling points.
 
-![](non-metals.png)
 
-![](properties.png)
 
 #### Metal ores – where metals are extracted from
 
@@ -129,8 +108,6 @@ I﻿n summary:
 •Most of the compounds found on Earth including metal ores were formed millions of years ago.
 
 •Metal ores are rocks containing a metal which can be used as a source of the metal.
-
-![](metal-ores.jpg)
 
 <!--StartFragment-->
 
@@ -148,37 +125,13 @@ iron + sulphur → iron sulphide
 
 Bonds are formed between iron and sulphur atoms to make them bonded together in iron sulphide.
 
-##### Naming Compounds
-
-<!--EndFragment-->
-
-![](naming-compounds.png)
-
-![](naming-compounds-2.png.jpg)
-
-<!--StartFragment-->
-
-Chemical reactions are represented by:
-
-<!--EndFragment-->
-
-![](word-equations.jpg)
-
 A﻿ chemical reaction takes place when compounds are formed from their elements or if a large compound breaks into smaller elements or compounds.
 
 Thermal decomposition - When compounds form elements (heat can split a compound into its elements)
 
-<!--EndFragment-->
-
-![](thermal-decomposition.jpg)
-
-<!--StartFragment-->
-
 Some compounds can thermally decompose  to form other compounds:
 
-<!--EndFragment-->
 
-![](thermal-decomposition-2.jpg.png)
 
 CHEMICAL REACTION signs
 
@@ -193,13 +146,3 @@ CHEMICAL REACTION signs
 •Solid (precipitate) forming
 
 •Heat given off
-
-<!--EndFragment-->
-
-![](signs_of_a_chemical_reaction.jpg)
-
-<!--StartFragment-->
-
-
-
-<!--StartFragment-->
