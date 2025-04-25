@@ -23,8 +23,6 @@ Acids and Bases can cancel each other out to become neutral. Neutral substances 
 
 The pH scale measured using Universal Indicator shows the strength of acids and alkalis from 1 to 14.
 
-![](https://c8.alamy.com/comp/G156N4/diagram-of-the-ph-scale-with-examples-of-acidic-neutral-and-alkaline-G156N4.jpg)
-
 <!--EndFragment-->
 
 P﻿ure water is neutral.
@@ -137,12 +135,8 @@ Titrations can tell you the volume of acid needed to neutralise a fixed volume o
 
 <!--EndFragment-->
 
-# H﻿azard Symbols
-
-•A Hazard is something that can cause harm.
+Note: Acids and alkalis are hazardous. a hazard is something that can cause harm. 
 
 •Acids and Alkalis may cause harm. They can be corrosive when concentrated and when dilute can be irritants.
 
 <!--EndFragment-->
-
-![](https://www.safelincs.co.uk/blog/wp-content/uploads/2024/02/COSHH-symbols.jpg)
