@@ -12,8 +12,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![](electricity.png)
-
 <!--StartFragment-->
 
 An electric circuit is a path for electric charge (electrons) to flow along.
@@ -32,8 +30,6 @@ I﻿n a series circuit, all circuit components are connected in one single loop.
 
 I﻿n a parallel circuit, there is more than one path around the circuit. There are junctions connecting many branches or loops together in the circuit. If one component in a branch gets damaged, the other branches can still function and the entire circuit does not break. 
 
-![](electric-circuit-types-infographic-diagram-electric-circuit-types-infographic-diagram-mechanics-dynamics-physics-science-education-248276239.jpg)
-
 # Current
 
 Electric current is the rate of flow of charge. It is a measure of how many electrons flow every second at a point in the circuit.  \
@@ -41,19 +37,11 @@ An ammeter measures current in a circuit. The ammeter is connected in series in 
 
 T﻿he units of current are Amperes or Amps
 
-![](current.png)
-
-![](ammeter_symbol.png)
-
 Current is the same everywhere in a series circuit.
-
-![](current_in_a_series_circuit.png)
 
 <iframe width="962" height="541" src="https://www.youtube.com/embed/zZ8znejhOas" title="Current in a series circuit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 C﻿urrent is shared across branches in a parallel circuit. The current entering the circuit is split across the branches and then is added up again so that current leaving the circuit is the same as current entering it.
-
-![](current_in_a_parallel_circuit.png)
 
  <iframe width="962" height="541" src="https://www.youtube.com/embed/ieooOjVBmbw" title="Current in a parallel circuit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -63,33 +51,17 @@ Voltage is the push given to electrons by a power source such as a cell or batte
 
 V﻿oltage is measured using a voltmeter. The units for voltage are the Volts.
 
-![](voltmeter.png)
-
 I﻿n a series circuit voltage from the power source is shared by the components in the series circuit. 
-
-![](voltage_series_circuit.png)
 
 <iframe width="962" height="541" src="https://www.youtube.com/embed/Mt2rZJ9uVL0" title="Voltage in a series circuit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I﻿n a parallel circuit voltage is the same across each branch of the parallel circuit.
-
-![](voltage_parallel_circuit.png)
 
 <iframe width="962" height="541" src="https://www.youtube.com/embed/etnrAWT1lY0" title="Voltage in a parallel circuit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Resistance
 
 R﻿esistance is a measure of the opposition to the flow of electrons in a circuits. It is the prevention of current in a circuit. Resistance is measured in Ohms by an Ohmmeter. 
-
-![](resistance.jpg)
-
-![](resistor.png)
-
-![](variable_resistor.png)
-
-![](current_voltage_resistance.jpg)
-
-
 
 # Wires in a plug
 
@@ -99,19 +71,32 @@ A plug connects a device to the mains electricity supply. The cable between the 
 
 <!--EndFragment-->
 
-![](plug.gif)
+<!--StartFragment-->
 
-![](plug_parts.png)
+| Features of a plug   | Function                                                                                                                                      |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Outer insulation** | All three wires in the cable are bundled together and there is extra plastic insulation wrapped round them all for safety.                    |
+| **Cable grip**       | This holds the cable tightly in place so that wires do not become loose.                                                                      |
+| **Live wire**        | Copper wire coated with brown plastic along which the current enters the device.                                                              |
+| **Fuse**             | A glass or ceramic canister containing a thin wire that melts if the current gets too high.                                                   |
+| **Neutral wire**     | Copper wire coated with blue plastic that also connects to the cable in the wall and completes the circuit.                                   |
+| **Earth wire**       | Copper wire coated in striped plastic that provides a path for current to flow from the case of the device to the ground if there is a fault. |
 
-![](fuse.png)
+<!--EndFragment-->
 
 <!--StartFragment-->
 
 # Grounding and Fuses
 
+<!--StartFragment-->
+
+**FUSE**
+
+A fuse is an electrical safety device that operates to provide overcurrent protection in a circuit. It's an essential component that must be present in both Electrical and Electronic appliances.
+
 <!--EndFragment-->
 
-![](home-wiring.png)
+<!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -124,5 +109,3 @@ A plug connects a device to the mains electricity supply. The cable between the 
 •The fuse or circuit breaker must be connected in the live wire side of a domestic circuit to ensure that it keeps high voltage from reaching the user, or surroundings, if a fault develops.
 
 <!--EndFragment-->
-
-![](home.png)
