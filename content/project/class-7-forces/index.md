@@ -26,11 +26,7 @@ image:
 
 •Contact Force -  force between objects that are touching each other. e.g friction, upthrust , reaction force 
 
-![](contact_forces.png)
-
 •Non Contact Forces -force between objects that are not touching each other e.g gravitational, magnetic and electrostatic forces
-
-![](non-contact-forces.png)
 
 <!--StartFragment-->
 
@@ -38,71 +34,35 @@ image:
 
 Friction acts to slow objects down. Friction is the force opposing motion. It produces heat.
 
-<!--EndFragment-->
-
-![](friction.png)
-
-<!--StartFragment-->
-
 How is friction reduced?
-
-<!--EndFragment--><!--StartFragment-->
 
 •By lubrication -Using a lubricant – such as oil or grease
 
 •Making the surface smoother
 
-![](reducing-friction.png)
-
 •Streamlined shape to reduce air resistance or water resistance.
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-# **Air Resistance (drag force)**
+## **Air Resistance (drag force)**
 
 Air reistance is an opposing force slowing down objects moving through air.
 
-<!--EndFragment-->
+Reduce air resistance on a body by making the body have a streamlined shape:
 
-![](air-resistance.png)
-
-<!--StartFragment-->
-
-Reduce air resistance on a body by making the body have a  streamlined shape:
-
-<!--EndFragment-->
-
-![](streamlined-objects.png)
-
-<!--StartFragment-->
-
-# W﻿ater resistance
+## W﻿ater resistance
 
 Water resistance is an opposing force slowing down objects moving through water. It can be reduced by making the object have a streamlined shape and lubricating it.
 
-<!--EndFragment-->
 
-![](water-resistance.png)
-
-<!--StartFragment-->
 
 # U﻿pthrust
 
 Upthrust is the force that makes things float. It acts opposite to weight.
 
-<!--EndFragment-->
 
-![](upthrust.png)
-
-<!--StartFragment-->
 
 # W﻿eight
 
 Weight is the force of gravity acting on an object with mass.
-
-<!--EndFragment--><!--StartFragment-->
 
 Your weight is determined by your mass and the gravitational field strength of Earth.
 
@@ -120,29 +80,11 @@ Therefore:
 
 Weight (N) = Mass (kg) x Gravitational force per every 1kg of mass (N/kg)
 
-<!--EndFragment-->
 
-![](weight.png)
-
-<!--StartFragment-->
-
-The triangle below shows the relationship between weight, mass and gravity:
-
-<!--EndFragment-->
-
-![](weight_mass_-_gravity.png)
-
-![](earth_moon.png)
-
-<!--StartFragment-->
 
 The gravitational field strength on the moon is about 2N/kg so weight on the moon will be less than on Earth.
 
-<!--EndFragment-->
 
-![](calculate_mass.png)
-
-![](weight-vs-mass.png)
 
 <!--StartFragment-->
 
@@ -174,8 +116,6 @@ This means that with every increase in force applied to the spring, the extensio
 
 <!--EndFragment-->
 
-![](extension.jpg)
-
 <!--StartFragment-->
 
 The spring stretches by the same amount (x) as you keep increasing the amount of force (F) steadily on the spring.\
@@ -184,25 +124,13 @@ So Hooke’s law: force is directly proportional to extension means: Doubling fo
 
 <!--EndFragment-->
 
-![](hooke-s-law.png)
-
 <!--StartFragment-->
 
 There’s a limit to the amount of force a spring can withstand. When this elastic limit is passed, the spring gets deformed and Hooke’s law no longer works which means with increase in force, the extension will not be the same. 
 
 <!--EndFragment-->
 
-![](force-vs-extension.png)
-
-![](apparatus-hookes-law.png)
-
-![](picture1.gif)
-
-<!--StartFragment-->
-
-##### Investigating Hooke’s law: Force is proportional to extension until elastic limit is reached.
-
-![](hooke-s-law-graph.png)
+ Hooke’s law: Force is proportional to extension until elastic limit is reached.
 
 With every 0.4N of force, the extension increases constantly by 2cm. The spring is obeying Hooke’s law.
 
@@ -211,8 +139,6 @@ Elastic limit/ Limit of proportionality is at 1.6N. When force added is greater 
 After elastic limit the spring does not return to its original shape.
 
 <!--EndFragment-->
-
-![](elastic-vs-plastic-spring.png)
 
 # B﻿alanced and Unbalanced Forces
 
@@ -226,8 +152,6 @@ I﻿f there are unbalanced forces on an object:
 * a﻿ stationary object will start to move.
 * a﻿ moving object will change its speed or direction.
 
-![](unbalanced-vs-balanced-forces.png)
-
 <!--StartFragment-->
 
 ## Resultant Force
@@ -238,17 +162,11 @@ T﻿he resultant force is the overall force with which an object moves in the di
 
 W﻿hen forces are balanced, the resultant force is zero. 
 
-![](resultant-force.png)
-
 <!--EndFragment-->
-
-![](resultant-force-2.png.jpg)
 
 # Pressure, Force and Area
 
 Pressure is the force of particles pushing on an area,
-
-![](pressure.png)
 
 <!--StartFragment-->
 
@@ -257,20 +175,14 @@ The units for Pressure are Pascals (Pa)\
 
 <!--EndFragment-->
 
-![](pascals.jpg)
-
 <!--StartFragment-->
 
 •For the same force; a large area gives less pressure and a small area, gives high pressure.
 
 <!--EndFragment-->
 
-![](large-area-less-pressure.jpg)
-
 <!--StartFragment-->
 
 •For the same area, a large force gives high pressure and a small force gives low pressure
 
 <!--EndFragment-->
-
-![](large-force-large-pressure.png)
