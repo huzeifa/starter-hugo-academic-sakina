@@ -39,14 +39,6 @@ The Particle Theory states that:
 
 <!--EndFragment-->
 
-![](solid_liquid_gas.jpg)
-
-![](water_molecules.jpg)
-
-![](solid_liquid_gas_3.jpg.gif.png)
-
-![](solid_liquid_gas_2.jpg.gif)
-
 # Q﻿uestion
 
 <!--StartFragment-->
@@ -75,31 +67,27 @@ Matter being able to keep its shape and volume and be compressed depends on how 
 
 <!--StartFragment-->
 
-# Experiments 
+# Experiments
 
 I﻿n order to test the above hypothesis and predictions, the following experiments need to be done:
 
 <!--StartFragment-->
 
-## •Brownian Motion 
+## •Brownian Motion
 
 Pollen grains in water move about randomly. This proves that liquid water particles are moving about randomly pushing the solid pollen grains around. Specks of smoke move about randomly in air. This proves gas particles in air are moving about randomly in all directions and colliding with the specks of smoke making their movement random. Brownian motion proves that liquid and gas particles can move around.
 
 <!--EndFragment-->
 
-![](brownian_motion.gif)
-
 <!--StartFragment-->
 
-## •Conduction of heat and sound in solids 
+## •Conduction of heat and sound in solids
 
 proves that solid particles vibrate in fixed positions and these vibrations can be transferred from particle to particle in a solid thereby transferring heat and sound energy in solids.
 
 •Particles in solids vibrate faster when heated and when heated to melting point can break free into a liquid state. When heating continues heat causes the particles to move even faster (increase in kinetic energy) and move further apart and after reaching boiling point can become gas
 
 <!--EndFragment-->
-
-![](conduction_heat_sound.png)
 
 <!--StartFragment-->
 
@@ -109,18 +97,12 @@ Using a syringe to compress solids liquids and gases to prove that the syringe c
 
 <!--EndFragment-->
 
-![](syringe_pressure_gas_liquid_solid.png)
-
 <!--StartFragment-->
 
-## •Diffusion 
+## •Diffusion
 
 Diffusion (is the random movement of particles from where they are many to where they are few) occurring fastest in gases proves that gases do not have a fixed volume and their particles can move away from each other and fill up a container due to their weaker forces of attraction compared to liquids.
 
 <!--EndFragment-->
-
-![](diffusion.gif)
-
-![](diffusion_2.gif)
 
 <!--StartFragment-->
