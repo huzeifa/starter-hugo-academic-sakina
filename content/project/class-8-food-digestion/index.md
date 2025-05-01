@@ -14,11 +14,7 @@ image:
 ---
 Food contains nutrients (raw materials) needed for energy, growth and repair, and for health.  The nutrients are: carbohydrates, fats, proteins, vitamins and minerals.
 
-![](food.jpg)
-
 Nutrition information labels can tell us how much of each nutrient can be eaten in a day (reference intake) and how much of that nutrient is in the particular food. This helps you know how much of the food you need to eat.
-
-![](nutrition_label.png)
 
 Nutrition labels give you the amount of energy in food (in kilo Joules and kilo Calories). 1 kilocalorie = 4 kiloJoules. Energy requirements change with age, type of activity and gender.
 
@@ -34,26 +30,13 @@ Nutrition labels give you the amount of energy in food (in kilo Joules and kilo 
 ## Food Tests
 
 * To test for the presence of **water** in a particular food, blue cobalt chloride paper is used. It turns pink, in the presence of water.
-
-![](cobalt_chloride_paper.jfif)
-
 * T﻿o test for the presence of the carbohydrate **starch** in a particular food, iodine is used. Brown iodine turns blue-black in the presence of starch. 
-
-![](starch_test.jfif)
-
 * T﻿o test for the presence of **fats** in a particular food, add ethanol and then the same amount of water. A white emulsion will be formed if fats are present.
-
-![](fats_test.png)
-
 * T﻿o test for the presence of **protein** in a particular food, blue Biuret solution turns purple in the presence of protein.
-
-![](protein_test.jfif)
 
 #### Balanced Diet
 
 A balanced diet contains the right amount of a wide variety of foods that can provide all nutrients + fibre for growth and repair, health and energy. 
-
-![](balanced_diet.png)
 
 #### Malnutrition
 
@@ -66,28 +49,25 @@ Too much of carbohydrates and fats can cause obesity which leads to heart diseas
 
 ![](mineral_uses_deficiency_diseases.png)
 
-![](sources_vitamins_minerals.jpg)
-
 * Kwashiorkor is a deficiency disease caused by lack of protein in ones diet.  A pot belly is the symptom of this disease as muscles that hold the abdomen get weak.
-
-![](kwashiorkor.jpg)
-
 * Lack of carbohydrates, fats and proteins cause starvation which causes anorexia (getting thinner and thinner)
 * Too much of carbohydrates and fats with no exercise causes obesity
 
-![](anorexia_obesity.png)
-
 # T﻿he Digestive System
-
-![](digestive_system.jpg)
-
-![](digestive_system_parts.jpg)
 
 ### E﻿nzymes
 
 Enzymes are biological catalysts that speed up digestion and don’t get used up in the process and remain unchanged.
 
 ![](enzymes_sources.jpg)
+
+T﻿he mouth contains the enzyme salivary amylase to digest starch.
+
+T﻿he stomach contains pepsin that functions in hydrochloric acid to digest protein.
+
+T﻿he duodenum contains pancreatic amylase, lipase and trypsin.
+
+T﻿he small intestine contains lactase, maltase, sucrase-isomaltase, peptidase
 
 ![](enzyme.png)
 
