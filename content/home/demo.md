@@ -25,4 +25,12 @@ design:
 ---
 ## Welcome to The Study Abode
 
+<!--StartFragment-->
+
+[Store Home - Sakina Tayabali on Selar](https://selar.com/m/sakinatayabali)
+
+<!--EndFragment-->
+
 This is where high school students and teachers can find science resources. Students can also find how to study better tips and study planners to keep track of their self-study and revision.
+
+<https://selar.com/m/sakinatayabali>
