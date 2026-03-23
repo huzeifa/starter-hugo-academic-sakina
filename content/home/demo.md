@@ -23,6 +23,6 @@ design:
       - 40px
       - "0"
 ---
-## Welcome to the Science Teacher's blog
+## Welcome to The Study Abode
 
-This is where high school students and teachers can find science notes and revision worksheets. Students can also find how to study better tips and study planners to keep track of their self study and revision.
+This is where high school students and teachers can find science resources. Students can also find how to study better tips and study planners to keep track of their self-study and revision.
