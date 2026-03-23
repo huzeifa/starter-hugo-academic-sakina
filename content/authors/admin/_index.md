@@ -1,6 +1,6 @@
 ---
-title: "The Study Abode - Sakina Huzeifa Tayabali "
-role: The Science Teacher,  Nairobi Kenya
+title: "Sakina Huzeifa Tayabali - The Study Abode "
+role: Science Teacher,  Nairobi Kenya
 avatar_filename: 45.png
 bio: ""
 interests: []
