@@ -1,5 +1,5 @@
 ---
-title: "Class 7: Energy & Changes"
+title: Energy & Changes
 date: 2022-10-15T18:21:32.617Z
 summary: ""
 draft: false
