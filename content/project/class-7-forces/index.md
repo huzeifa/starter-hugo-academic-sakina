@@ -1,5 +1,5 @@
 ---
-title: "Class 7: Forces"
+title: Forces
 date: 2023-08-08T13:58:55.992Z
 draft: false
 featured: false
