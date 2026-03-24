@@ -1,5 +1,5 @@
 ---
-title: Class 7 - Atoms, Elements & Compounds
+title: Atoms, Elements & Compounds
 date: 2023-12-12T16:11:24.227Z
 draft: false
 featured: false
