@@ -1,5 +1,5 @@
 ---
-title: "Class 7: Mixtures and their Separation"
+title: Mixtures and their Separation
 date: 2022-10-13T07:29:50.758Z
 summary: ""
 draft: false
