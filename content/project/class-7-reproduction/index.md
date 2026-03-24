@@ -1,5 +1,5 @@
 ---
-title: "Class 7 Reproduction "
+title: "Reproduction "
 date: 2023-01-09T07:33:04.369Z
 summary: ""
 draft: false
