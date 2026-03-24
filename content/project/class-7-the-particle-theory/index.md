@@ -1,5 +1,5 @@
 ---
-title: Class 7 - The Particle Theory
+title: The Particle Theory
 date: 2023-03-30T06:45:07.346Z
 draft: false
 featured: false
