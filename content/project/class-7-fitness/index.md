@@ -1,5 +1,5 @@
 ---
-title: "Class 7: Fitness"
+title: Fitness - Muscles & Breathing
 date: 2023-11-13T17:47:29.261Z
 draft: false
 featured: false
