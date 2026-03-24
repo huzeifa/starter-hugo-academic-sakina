@@ -1,5 +1,5 @@
 ---
-title: "Class 7: Electricity"
+title: Electricity
 date: 2023-03-02T07:24:26.779Z
 draft: false
 featured: false
