@@ -1,5 +1,5 @@
 ---
-title: Class 7 Ecosystems & Variation
+title: Ecosystems & Variation
 date: 2023-12-10T09:39:42.486Z
 draft: false
 featured: false
