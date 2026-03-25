@@ -1,5 +1,5 @@
 ---
-title: "Class 7: Sound"
+title: Sound
 date: 2024-09-21T13:29:43.430Z
 draft: false
 featured: false
